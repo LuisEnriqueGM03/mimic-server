@@ -16,8 +16,8 @@
       "id": "distant_horizons",
       "name": "Distant Horizons",
       "file": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-      "description": "Renderizado de mundos a larguísima distancia (LOD). Desactívalo si necesitas más FPS o rendimiento.",
-      "defaultEnabled": true
+      "description": "Renderizado de mundos a larguísima distancia (LOD). Desactivado por defecto para maximizar FPS. Actívalo si tu PC lo soporta.",
+      "defaultEnabled": false
     },
     {
       "id": "iris_shaders",
