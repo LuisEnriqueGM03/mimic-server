@@ -1,0 +1,12 @@
+# Archivos temporales de Minecraft
+logs/
+crash-reports/
+saves/
+usercache.json
+.mixin.out/
+.boss_checklist_data/
+*.disabled
+
+# Excluir archivos gigantes en crudo si se copiaran por error
+resourcepacks/Medieval_Background_Music-1.19.3-2.0.zip
+resourcepacks/Refreshing Soundtracks!.zip
