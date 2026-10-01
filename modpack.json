@@ -1,6 +1,6 @@
 {
   "name": "Mimic MC",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -12,6 +12,13 @@
   },
   "recommendedRam": 6144,
   "optionalMods": [
+    {
+      "id": "distant_horizons",
+      "name": "Distant Horizons",
+      "file": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "description": "Renderizado de mundos a larguísima distancia (LOD). Desactívalo si necesitas más FPS o rendimiento.",
+      "defaultEnabled": true
+    },
     {
       "id": "iris_shaders",
       "name": "Iris Shaders",
@@ -28,7 +35,8 @@
     }
   ],
   "changelog": [
-    "⚔️ Versión oficial 1.0.0 de Mimic MC Server",
+    "🔭 Añadido mod Distant Horizons (renderizado de mundos a larga distancia)",
+    "⚔️ Versión oficial 1.0.1 de Mimic MC Server",
     "⚡ NeoForge 21.1.248 optimizado con más de 280 mods RPG y exploración",
     "✨ Soporte integrado para shaders Iris y luces dinámicas",
     "🛡️ Servidor oficial integrado: mimicsv.glemtrod.com"
@@ -489,6 +497,12 @@
       "sha1": "c0c5e59e1a6c35cb7c6cf330993077cb70591a2b",
       "size": 13724,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/despawntweaker-1.21.1-NeoForge-1.0.0.jar"
+    },
+    {
+      "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+      "size": 28289212,
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
     },
     {
       "path": "mods/DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar",
@@ -57681,84 +57695,6 @@
       "sha1": "2d63859a073ad5396e373ba32846d595cd147a63",
       "size": 5103758,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/resourcepacks/§6PresenceFootsteps R9.zip"
-    },
-    {
-      "path": "versions/1.21.1/1.21.1.jar",
-      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
-      "size": 26836906,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/versions/1.21.1/1.21.1.jar"
-    },
-    {
-      "path": "versions/1.21.1/1.21.1.json",
-      "sha1": "22a1966494dfa4eeb5ee778c8e6ed5b774839582",
-      "size": 38408,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/versions/1.21.1/1.21.1.json"
-    },
-    {
-      "path": "versions/neoforge-21.1.248/neoforge-21.1.248.jar",
-      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
-      "size": 26836906,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/versions/neoforge-21.1.248/neoforge-21.1.248.jar"
-    },
-    {
-      "path": "versions/neoforge-21.1.248/neoforge-21.1.248.json",
-      "sha1": "a7a707f9964fd6e7fafd3b520937137132f08e90",
-      "size": 21546,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/versions/neoforge-21.1.248/neoforge-21.1.248.json"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar",
-      "sha1": "db5c59932751d66c2f57c1c2de41b48712620975",
-      "size": 12372293,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar.cache",
-      "sha1": "8198c7d8b601f0ff562ba94d313f8d9d2014ddca",
-      "size": 142,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar.cache"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-mappings.txt",
-      "sha1": "2244b6f072256667bcd9a73df124d6c58de77992",
-      "size": 9598610,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-mappings.txt"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar",
-      "sha1": "b4fb33003ee0975bc4511ff09d5d4a268b33fc2b",
-      "size": 14464635,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar.cache",
-      "sha1": "c137e1f836d8023803505b6277e1978f5dc2d437",
-      "size": 142,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar.cache"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar",
-      "sha1": "a4827225b3c07662ca68b03ea20d11433a0c0488",
-      "size": 18725656,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-client.jar",
-      "sha1": "bab98816cfdbccc1e9076872771ef81f39afbcc9",
-      "size": 5675624,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-client.jar"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-clientdata.lzma",
-      "sha1": "049fa9461584b719f67a21d0e47a9402085601db",
-      "size": 3240670,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-clientdata.lzma"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-universal.jar",
-      "sha1": "9a97bebbd7641685052d59368bb32c56ecb9c913",
-      "size": 3551268,
-      "url": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/libraries/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-universal.jar"
     }
   ]
 }
