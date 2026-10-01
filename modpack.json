@@ -1,6 +1,6 @@
 {
   "name": "Mimic MC",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -35,6 +35,7 @@
     }
   ],
   "changelog": [
+    "Añadidos mods: Chunk Tree Fix, Macaws Doors, Macaws Trapdoors, Toms Simple Storage",
     "🔭 Añadido mod Distant Horizons (renderizado de mundos a larga distancia)",
     "⚔️ Versión oficial 1.0.1 de Mimic MC Server",
     "⚡ NeoForge 21.1.248 optimizado con más de 280 mods RPG y exploración",
@@ -154,7 +155,7 @@
       "path": "mods/Armageddon for NeoForge 1.21.1 (v3.2.0) - Polished.jar",
       "sha1": "962e34b83ca29b8eed9a15de54e45e86aba47c4d",
       "size": 11628920,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/Armageddon for NeoForge 1.21.1 (v3.2.0) - Polished.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/Armageddon%20for%20NeoForge%201.21.1%20(v3.2.0)%20-%20Polished.jar"
     },
     {
       "path": "mods/armor_hud-neoforge-1.1.1+mc1.21.1.jar",
@@ -196,7 +197,7 @@
       "path": "mods/ATi Structures V1.4.6.jar",
       "sha1": "d38774021a0a7d916f9fe67d9e8d63e7d6df2bea",
       "size": 13115969,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/ATi Structures V1.4.6.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/ATi%20Structures%20V1.4.6.jar"
     },
     {
       "path": "mods/attributefix-neoforge-1.21.1-21.1.3.jar",
@@ -355,6 +356,12 @@
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/chunksending-1.21-3.7.jar"
     },
     {
+      "path": "mods/chunktreefix 1.1.2.jar",
+      "sha1": "10ffef87fe6995f290e4fb345931f473fc0a9ed8",
+      "size": 5800,
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/chunktreefix%201.1.2.jar"
+    },
+    {
       "path": "mods/Chunky-NeoForge-1.4.23.jar",
       "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
       "size": 340572,
@@ -508,7 +515,7 @@
       "path": "mods/DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar",
       "sha1": "d67696f0b02512243387b8bba9d7d1376eaa8150",
       "size": 1774665,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/DnT-nether-fortress-overhaul-v2.4%20%5BNeoForge%5D.jar"
     },
     {
       "path": "mods/easy_mob_spawn_control-1.5.6.jar",
@@ -742,7 +749,7 @@
       "path": "mods/Grim kingdoms Vanilla (1.21+26+).jar",
       "sha1": "28e1ab04d330ac1e6146c31516a39c034dc4babe",
       "size": 10381553,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/Grim kingdoms Vanilla (1.21+26+).jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/Grim%20kingdoms%20Vanilla%20(1.21+26+).jar"
     },
     {
       "path": "mods/gtbcs_cataclysmic_uis-1.0.3+1.21.1.jar",
@@ -946,7 +953,7 @@
       "path": "mods/legendary_monsters-2.2.2 MC 1.21.1.jar",
       "sha1": "8910859ba94190dd8cbc8c2c1e2f07562db729b4",
       "size": 44757560,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/legendary_monsters-2.2.2 MC 1.21.1.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/legendary_monsters-2.2.2%20MC%201.21.1.jar"
     },
     {
       "path": "mods/letsdo-bloomingnature-neoforge-1.1.10.jar",
@@ -1048,13 +1055,13 @@
       "path": "mods/lukis-strongholds-v1.0 -1.21-1.21.4.jar",
       "sha1": "a0e56436dfea9883c10552ba94a7b3bfa1e6ecd4",
       "size": 917606,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/lukis-strongholds-v1.0 -1.21-1.21.4.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/lukis-strongholds-v1.0%20-1.21-1.21.4.jar"
     },
     {
       "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
       "sha1": "5ff39c0eddfa08ea0e921bdcb17da7f32f0b00ce",
       "size": 73375661,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/L_Ender's Cataclysm 1.21.1-3.33.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/L_Ender's%20Cataclysm%201.21.1-3.33.jar"
     },
     {
       "path": "mods/majruszs-difficulty-neoforge-1.21.1-1.1.1.jar",
@@ -1067,6 +1074,18 @@
       "sha1": "56243df705c150933642f7108b0d882322147d63",
       "size": 20034,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/maxhealthfix-neoforge-1.21.1-21.1.4.jar"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7",
+      "size": 1190404,
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "1f8b59e31f889f53b6296b42ee09d447e7e56620",
+      "size": 572870,
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
     },
     {
       "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
@@ -1294,7 +1313,7 @@
       "path": "mods/Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar",
       "sha1": "a5ba6d1ccaf5e15f2d33235ea0a180c5d899cb83",
       "size": 4932632,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/Quick%20Skin%20-%20NeoForge%20-%201.21.1-2.6.2.4.jar"
     },
     {
       "path": "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
@@ -1579,6 +1598,12 @@
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/The_Undergarden-1.21.1-0.9.6.jar"
     },
     {
+      "path": "mods/toms_storage-1.21-2.4.2.jar",
+      "sha1": "592af3bc4768c804c4929af16961ca2a1a916942",
+      "size": 856803,
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/toms_storage-1.21-2.4.2.jar"
+    },
+    {
       "path": "mods/toofast-1.21.0-0.4.3.6.jar",
       "sha1": "4a1f4307fc8dea95667fe88c8d39f87e2b370643",
       "size": 3372,
@@ -1768,7 +1793,7 @@
       "path": "mods/[1.21.1] SecurityCraft v1.10.2.1.jar",
       "sha1": "8760079e80039f982f1a92d3ee9d60a2bcab3251",
       "size": 5193371,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/[1.21.1] SecurityCraft v1.10.2.1.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar"
     },
     {
       "path": "config/aaa_particles-client.toml",
