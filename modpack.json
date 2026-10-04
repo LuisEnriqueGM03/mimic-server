@@ -56,8 +56,8 @@
     },
     {
       "path": "config/aaa_particles-client.toml",
-      "sha1": "3605d25d764a002c3306f96fc8b32c7eeb92e03b",
-      "size": 103,
+      "sha1": "4ee600450f7c90b8f65310577e49a1e178e3b37a",
+      "size": 99,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/aaa_particles-client.toml"
     },
     {
@@ -80,20 +80,20 @@
     },
     {
       "path": "config/achiopt-common.toml",
-      "sha1": "84cb86fb3b5725aa0112279b168e5b39065e92d3",
-      "size": 193,
+      "sha1": "a5b3d03c1ca3c4df33658f4c7e467d1f988d64a8",
+      "size": 187,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/achiopt-common.toml"
     },
     {
       "path": "config/advancements_reloaded.toml",
-      "sha1": "e21896166c0f53b7a5adf2dec1577a92529c48fb",
-      "size": 355,
+      "sha1": "b359b3abbf52ef114bc156226840d00dd21eb6ac",
+      "size": 353,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/advancements_reloaded.toml"
     },
     {
       "path": "config/aiimprovements-common.toml",
-      "sha1": "0dd6c67ffafc371a1ee22959c693b9e35f0794d3",
-      "size": 6207,
+      "sha1": "35614842fd83876730c7b0aa100d4cc29e08ac77",
+      "size": 6086,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/aiimprovements-common.toml"
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "config/alloy_smelter-common.toml",
-      "sha1": "fd229c1719c6aaad141c25f87774e92160e8cab0",
-      "size": 116,
+      "sha1": "3c25110b57bd04e29561180cdeead78d4b30e606",
+      "size": 112,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/alloy_smelter-common.toml"
     },
     {
@@ -128,26 +128,26 @@
     },
     {
       "path": "config/antarchy/antarchy_misc.toml",
-      "sha1": "485baa83122b07aae71531a73c09e6a39ff1341c",
-      "size": 3892,
+      "sha1": "c7e4a5f006eb6da27f2c3150cdc1fcdc9f370f8a",
+      "size": 3789,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/antarchy/antarchy_misc.toml"
     },
     {
       "path": "config/antarchy/antarchy_mobs.toml",
-      "sha1": "4f644782b3f9da4f1df837a98ce9da813744b5aa",
-      "size": 18650,
+      "sha1": "e45a09f638d84c62c4e5d5067e40e157a29aee76",
+      "size": 17994,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/antarchy/antarchy_mobs.toml"
     },
     {
       "path": "config/antarchy/antarchy_tools.toml",
-      "sha1": "e1145d2b53dd4dee12549c071896449795e3c3cf",
-      "size": 18131,
+      "sha1": "500ec7a1802bde270cd69c020e2a80fc163dea31",
+      "size": 17515,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/antarchy/antarchy_tools.toml"
     },
     {
       "path": "config/appleskin-client.toml",
-      "sha1": "8f167f14bbd81163f78c5e3459dcffdb50225117",
-      "size": 1376,
+      "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477",
+      "size": 1353,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/appleskin-client.toml"
     },
     {
@@ -182,26 +182,26 @@
     },
     {
       "path": "config/armageddon_mod_config-1.toml.bak",
-      "sha1": "d13801236090a0e80cf442da5e170239ff996ba5",
-      "size": 31783,
+      "sha1": "46cb2206c2fb98a9ede709ee7ff0ea2d5d46c146",
+      "size": 31332,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/armageddon_mod_config-1.toml.bak"
     },
     {
       "path": "config/armageddon_mod_config-2.toml.bak",
-      "sha1": "6f17328898b73d00bc20f43441cb4ec8e850616b",
-      "size": 1969,
+      "sha1": "ef994459e2ca3b8e7c24211af3b681fea2e0aa4c",
+      "size": 1930,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/armageddon_mod_config-2.toml.bak"
     },
     {
       "path": "config/armageddon_mod_config.toml",
-      "sha1": "64a924683752157ab1ad029d05b223fcce246a74",
-      "size": 31983,
+      "sha1": "87d9390c8bc07bd726a0dfa65c31e97e71f86ef3",
+      "size": 31528,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/armageddon_mod_config.toml"
     },
     {
       "path": "config/armageddon_mod_keeper_config.toml",
-      "sha1": "aa676432f3b183a97470d03feda50baaee87c4ea",
-      "size": 3141,
+      "sha1": "42b8fe1510abeae2126761aadd73ce69bf3648c9",
+      "size": 3090,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/armageddon_mod_keeper_config.toml"
     },
     {
@@ -242,506 +242,506 @@
     },
     {
       "path": "config/ars_nouveau/glyph_accelerate.toml",
-      "sha1": "f4a2c7b73b7abc8937db32490d06d4f11deabaeb",
-      "size": 378,
+      "sha1": "74d4237e0c9d9afb10c8c46bae385877e9dee7c9",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_accelerate.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_amplify.toml",
-      "sha1": "227e5811490f350768c3681d7e1dfb89a08da9d2",
-      "size": 378,
+      "sha1": "dccd38bc36ff1711e458833ff9b0b9ca29b1923e",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_amplify.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_animate_block.toml",
-      "sha1": "aab110a5615c1e39cb84e14a000d7a8e66536442",
-      "size": 1004,
+      "sha1": "32129252ad70ca9768b7eb3858c7ec415c30768a",
+      "size": 969,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_animate_block.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_aoe.toml",
-      "sha1": "79baf7f6b5eee0a85e0f857535aece0a25533aff",
-      "size": 378,
+      "sha1": "45e52ec7976e347fe67a4732e045ee3f83c2a5eb",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_aoe.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_blink.toml",
-      "sha1": "8abe8998188211c897d61b8f7ad2b9ce3a2d09ef",
-      "size": 976,
+      "sha1": "3d5d59aa52149a8da896236504411863ddb0812c",
+      "size": 942,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_blink.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_bounce.toml",
-      "sha1": "298ebc567f82508d7cf0fb39107bae6c57af584f",
-      "size": 1006,
+      "sha1": "26ba25bea0048c2e442722cf8c5bb78d20791e83",
+      "size": 971,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_bounce.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_break.toml",
-      "sha1": "abac3c22590a75977c301eadd2324a0a7dceead8",
-      "size": 902,
+      "sha1": "792af5cabd993135439af48ca84e22c26fbe040d",
+      "size": 875,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_break.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_bubble.toml",
-      "sha1": "440980feb552317cdc53b7f52afcdf8c5430d916",
-      "size": 1052,
+      "sha1": "277c31dbd8a54f6d98189d99dadad140714394b2",
+      "size": 1015,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_bubble.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_burst.toml",
-      "sha1": "fe9d9f1095c42ba2ea448b3daf1fe91cc67dff20",
-      "size": 910,
+      "sha1": "5ee42c058d1c2f10a87cb27a184800f74f178fb9",
+      "size": 883,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_burst.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_cold_snap.toml",
-      "sha1": "36532f299596ce107d17437dfd874ab2c56061bb",
-      "size": 1187,
+      "sha1": "e647e612e6b1e99f473f5a488c9176cd52f7e516",
+      "size": 1146,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_cold_snap.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_conjure_water.toml",
-      "sha1": "de79ad1172b8fcf7eef23704d13bf8997bb72d2c",
-      "size": 1039,
+      "sha1": "5a06812caf571903d44378c57df294ee0e9dee54",
+      "size": 1004,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_conjure_water.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_craft.toml",
-      "sha1": "2a1a0a2e432c0d203b733a9cf49cb30ff05c43e2",
-      "size": 841,
+      "sha1": "98782ff6390ca4a0e77b66bf060f71e8b4c433fb",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_craft.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_crush.toml",
-      "sha1": "4de90e95c3a413e41d4428c0e0bcf971f0ebc7b9",
-      "size": 1030,
+      "sha1": "d3c40430c413563a7b958a78942b1fbe10e499cc",
+      "size": 997,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_crush.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_cut.toml",
-      "sha1": "06f64c1b6f433e07ef9defb3e4e17b5b5407b7fe",
-      "size": 995,
+      "sha1": "bde61d018c1b51cb2259fb5f3e7dd45e73797eb2",
+      "size": 962,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_cut.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_dampen.toml",
-      "sha1": "23492a1a410e2b979af5b4fd0c2b33932784cf18",
-      "size": 376,
+      "sha1": "a1255b283531900acab31d2135bf943dc010bf80",
+      "size": 358,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_dampen.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_decelerate.toml",
-      "sha1": "1ad762b3539869582a0cac26e1202a4094d513ad",
-      "size": 376,
+      "sha1": "c0c10eea13bb7f52dd57aca58cf547f49180a6f8",
+      "size": 358,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_decelerate.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_delay.toml",
-      "sha1": "c772a7197fc4d061cc44f79f0cadf60994bc8d6f",
-      "size": 1243,
+      "sha1": "c19434fcd785b7efb78592c4651f07174ba0b536",
+      "size": 1200,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_delay.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_dispel.toml",
-      "sha1": "6682118a710fb7f737a1c5bd53d2c9d4d0ad083f",
-      "size": 841,
+      "sha1": "030520dd02bed260becef2a3ff37223a35b887a1",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_dispel.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_duration_down.toml",
-      "sha1": "cfd87753247647e320a68628e24d01f4e77d8d78",
-      "size": 378,
+      "sha1": "9e8c0aec24abff427ccff4ff9c0dee003f0af951",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_duration_down.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_ender_inventory.toml",
-      "sha1": "d5051696fdb4e48fe951a063cabfbc87f0149e28",
-      "size": 841,
+      "sha1": "8303ab6c852f4c0800b7e876db2ef7b275c6cab3",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_ender_inventory.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_evaporate.toml",
-      "sha1": "2a1a0a2e432c0d203b733a9cf49cb30ff05c43e2",
-      "size": 841,
+      "sha1": "98782ff6390ca4a0e77b66bf060f71e8b4c433fb",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_evaporate.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_exchange.toml",
-      "sha1": "d5051696fdb4e48fe951a063cabfbc87f0149e28",
-      "size": 841,
+      "sha1": "8303ab6c852f4c0800b7e876db2ef7b275c6cab3",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_exchange.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_explosion.toml",
-      "sha1": "494a7f162939c6c164ded81dae9e824e61e0bb6d",
-      "size": 1263,
+      "sha1": "47ad426180e6e6a0c6f346f3af731b490f655ec1",
+      "size": 1218,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_explosion.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_extend_time.toml",
-      "sha1": "f4a2c7b73b7abc8937db32490d06d4f11deabaeb",
-      "size": 378,
+      "sha1": "74d4237e0c9d9afb10c8c46bae385877e9dee7c9",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_extend_time.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_extract.toml",
-      "sha1": "a11e8eabceb4f71cef49a084be5a16007d4e369d",
-      "size": 378,
+      "sha1": "35500c9652b3c9f6729f588668a3c459b5ee589b",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_extract.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_fangs.toml",
-      "sha1": "8eb257cca677541793db4dbba501859332574e7f",
-      "size": 997,
+      "sha1": "163a6789b90d55232b3671f328f677eb043dee8f",
+      "size": 964,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_fangs.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_fell.toml",
-      "sha1": "5c72e25370c773825b42381831accd0f87e2f089",
-      "size": 1010,
+      "sha1": "90cc7e489a20034f443848d48c5424877aa6301f",
+      "size": 975,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_fell.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_firework.toml",
-      "sha1": "668a4f18d2925cb8f0345028feaf00e0575c8251",
-      "size": 870,
+      "sha1": "f2a47933194dc04d64fbd4fbfd8aa2140598b60a",
+      "size": 843,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_firework.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_flare.toml",
-      "sha1": "2bdb1e69eb36a7a26cb0664175c1a04412a48ac1",
-      "size": 1081,
+      "sha1": "85daa578b9363b62db1abde59d678e9f04e6835a",
+      "size": 1044,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_flare.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_fortune.toml",
-      "sha1": "d75e3b6126b9d287e3adec8b30dbd76539b71552",
-      "size": 378,
+      "sha1": "c255aa1ff76c3ee8189ce07d4301a1252d53fb65",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_fortune.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_freeze.toml",
-      "sha1": "65dc512c503533f48a7f31fc2f41f2e5a6b6f2aa",
-      "size": 1037,
+      "sha1": "65a8e88d7f114a07a11ca57a4b444ad4faf619ee",
+      "size": 1002,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_freeze.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_glide.toml",
-      "sha1": "fb21a6492d9cefc7a9eb77a3de2f98a3093ca2cb",
-      "size": 1014,
+      "sha1": "cd8a03ccefcf15eb36a6c08059114f25e2e97cbe",
+      "size": 979,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_glide.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_gravity.toml",
-      "sha1": "3a91da13e6dae8d4613cae4d2260a8556361bd4b",
-      "size": 1006,
+      "sha1": "7e8c23ead0aa575918e958b2fa9275d44df4e521",
+      "size": 971,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_gravity.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_grow.toml",
-      "sha1": "de2b5c30d375325b8ba528175af1152c9e644514",
-      "size": 841,
+      "sha1": "baf9daa91d323b28984ff007246347b115cb2ef0",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_grow.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_gust.toml",
-      "sha1": "a233da41779149f2890a505aacd53f4720647994",
-      "size": 1036,
+      "sha1": "eb583c725c3b8e4cdceb622bc1e8c1a31dd88e0a",
+      "size": 1002,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_gust.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_harm.toml",
-      "sha1": "05781ed6e9f1853cb5c8d750f9039bb413e05417",
-      "size": 1159,
+      "sha1": "8e91c16ee99c1916857379983afb48227d0f24ba",
+      "size": 1118,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_harm.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_harvest.toml",
-      "sha1": "2c9bee9c25dbc2788bfddb7da080b2385b006200",
-      "size": 841,
+      "sha1": "fb91a4255c83319a06bacda4d4c23be240824126",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_harvest.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_heal.toml",
-      "sha1": "46ef5e060a342c987d97725e7a43812259fee31d",
-      "size": 1000,
+      "sha1": "3a007a26a610440899c7d8f3340bf1d79d591b2d",
+      "size": 966,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_heal.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_hex.toml",
-      "sha1": "7e75ef881b5e19591feff459061cbdb2863ec0e7",
-      "size": 1037,
+      "sha1": "095689258ad5dceb535ee0308d8a9e67fe0ad2cc",
+      "size": 1002,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_hex.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_ignite.toml",
-      "sha1": "2c67f36299e90cf71eca5ee19572e3345e7b53b7",
-      "size": 1035,
+      "sha1": "63c16060dc3844c83c67439e328d0a7c62962b7d",
+      "size": 1000,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_ignite.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_infuse.toml",
-      "sha1": "5f5efe4b80c3e35acd387869066a207c8099d437",
-      "size": 901,
+      "sha1": "775c04ceff64a30870c7aadf0a9ee372204cd3c6",
+      "size": 874,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_infuse.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_intangible.toml",
-      "sha1": "063934ad03f8347d1e8035a14f1c4d4f49fabd01",
-      "size": 995,
+      "sha1": "5262c229e9a0a6ecb4f9d4bbf6d0ec65375cda45",
+      "size": 960,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_intangible.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_interact.toml",
-      "sha1": "9155c911a86bfe5eba75dd26f757e7714dc2c394",
-      "size": 933,
+      "sha1": "681c83cf313bc56dee9f862d034be5d6aab1ad65",
+      "size": 906,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_interact.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_invisibility.toml",
-      "sha1": "73eaae24d5844da265e9fad8f1867017bb369eae",
-      "size": 1006,
+      "sha1": "938b840d80d3c7307d036f42618fa7072e942d25",
+      "size": 971,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_invisibility.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_launch.toml",
-      "sha1": "2b11e1633a86502ec0d81389ad70268a68ce25e5",
-      "size": 1034,
+      "sha1": "63f469850bc33917e95264e9aac03e896a6528ce",
+      "size": 1000,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_launch.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_leap.toml",
-      "sha1": "3f5b75c21f891dda0bd43933d6ade3de5c825ad7",
-      "size": 1126,
+      "sha1": "5d687c55ef9f3eae11d685af354d710eae42dad9",
+      "size": 1090,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_leap.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_light.toml",
-      "sha1": "cb43144a2607c85353373560bf043cf4697567b7",
-      "size": 1068,
+      "sha1": "60df8b562209078518510c4f10623e0a4879d2b0",
+      "size": 1033,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_light.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_lightning.toml",
-      "sha1": "c35795d75aa0781dc4b3b9be616f327e7f164854",
-      "size": 1107,
+      "sha1": "265b3cb1055a055261a333e4a8a453217d2a45e7",
+      "size": 1070,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_lightning.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_linger.toml",
-      "sha1": "c4560e4dda7c28746f5439056cfe5a83d2ba3091",
-      "size": 858,
+      "sha1": "4fbdc8a9dd116574ba4bc8e28ca2fc2aead462ba",
+      "size": 831,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_linger.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_name.toml",
-      "sha1": "996f34b58c56dd6a07ed945fa0160838e647806b",
-      "size": 841,
+      "sha1": "ebf23f9434e3ea4db004689af9f1cc883542af74",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_name.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_orbit.toml",
-      "sha1": "0eda34979e77137f821527d8efddfe41e9a46f91",
-      "size": 841,
+      "sha1": "01d369ec07b65162d81fca01150413061f9be236",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_orbit.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_pantomime.toml",
-      "sha1": "925326cd8c2e383b820c6d5eab9e1adb74ffd713",
-      "size": 732,
+      "sha1": "ee9d8559222cb44c0fc28bf6af1ad5cde4d807eb",
+      "size": 708,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_pantomime.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_phantom_block.toml",
-      "sha1": "ab7c8b90bc2df826d77c63c2271977cb10ee3148",
-      "size": 868,
+      "sha1": "9bfa3a3d52d90a094891799dcc70d7502fe013b8",
+      "size": 841,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_phantom_block.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_pickup.toml",
-      "sha1": "2c9bee9c25dbc2788bfddb7da080b2385b006200",
-      "size": 841,
+      "sha1": "fb91a4255c83319a06bacda4d4c23be240824126",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_pickup.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_pierce.toml",
-      "sha1": "be5cc8714b48aec30c2edd427f4f15940d340693",
-      "size": 378,
+      "sha1": "315f0ff91d424bdbb7fa4dc65721ea9dd5682b33",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_pierce.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_place_block.toml",
-      "sha1": "111ca7c7a8dd7d5c0c49355c95672bd9a84997e3",
-      "size": 872,
+      "sha1": "5e9cea24da30240baae210f63b98e4960a94183f",
+      "size": 845,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_place_block.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_prestidigitation.toml",
-      "sha1": "60a8c636368843d82b31b7a54061afaf8c70ceb9",
-      "size": 839,
+      "sha1": "e9ea97916781ceb018e35ea5af508fbc77048eca",
+      "size": 812,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_prestidigitation.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_projectile.toml",
-      "sha1": "236181dab0cae9dbf290155dd14b10f1f6124d38",
-      "size": 803,
+      "sha1": "987f9a88a271e6cd61a649d5a806aae6c46e5dec",
+      "size": 775,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_projectile.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_pull.toml",
-      "sha1": "5cd3e79c76612099f2b4c65345e0831e1107ffd5",
-      "size": 1038,
+      "sha1": "a1e15ea1d925e9d7d461a81b6588c03888418175",
+      "size": 1004,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_pull.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_randomize.toml",
-      "sha1": "fa626a80f1866a6a6e9f80e148ba96f9907eaa0e",
-      "size": 376,
+      "sha1": "d75470187baa689660ab0946f897240d5a06c539",
+      "size": 358,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_randomize.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_redstone_signal.toml",
-      "sha1": "cfa36bc2d0cc4e9b6fb3dcbe2964b6a68a7c2616",
-      "size": 1023,
+      "sha1": "864b553856f60e08f3280833efb11f105ca0a9c1",
+      "size": 988,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_redstone_signal.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_rotate.toml",
-      "sha1": "b62f72f44b66d470cdecf83700b7ced1ef142c50",
-      "size": 905,
+      "sha1": "e5528d055b00b35f905653f5b89ede7685bc2a1a",
+      "size": 878,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_rotate.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_rune.toml",
-      "sha1": "65f7ce8435e2a789b8dde54109bac5e36b551cfd",
-      "size": 872,
+      "sha1": "248fda0e5ac3595847a5d9b258cb65a7cd96be9c",
+      "size": 845,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_rune.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_self.toml",
-      "sha1": "18a36387936939ed8b678f856c2be238a0ebbbe1",
-      "size": 705,
+      "sha1": "8670956a11f6c901c66df8812cb52c6d950f8b1f",
+      "size": 681,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_self.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_sense_magic.toml",
-      "sha1": "f4fa07d3adc85f828074ff11e0d6e30206b10b80",
-      "size": 1008,
+      "sha1": "600f4b163401294d75bb5e7304590f18caa159cb",
+      "size": 973,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_sense_magic.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_sensitive.toml",
-      "sha1": "2e1a1e6dc1005bb574842540e8cd2e7ea7ccd901",
-      "size": 378,
+      "sha1": "2c8075abd46bacfd3b10849a9e2098c4060b4aea",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_sensitive.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_slowfall.toml",
-      "sha1": "73eaae24d5844da265e9fad8f1867017bb369eae",
-      "size": 1006,
+      "sha1": "938b840d80d3c7307d036f42618fa7072e942d25",
+      "size": 971,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_slowfall.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_smelt.toml",
-      "sha1": "3f317c1f29c4b5cedcb1668af3e07701f0ba82be",
-      "size": 874,
+      "sha1": "c62952ef960a445b4d31026dad867fda8d3860ec",
+      "size": 847,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_smelt.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_snare.toml",
-      "sha1": "c0c468c276e7ef1abeb0e52372d5c60c5dc4067e",
-      "size": 1006,
+      "sha1": "8edc974bd0c194cfd89db3800204d00877b64082",
+      "size": 971,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_snare.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_split.toml",
-      "sha1": "21cc755074f55e9c195ce46615942d9135d9341b",
-      "size": 378,
+      "sha1": "621e0230964d31f3fdea3f3a27205a72bd5fc699",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_split.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_summon_decoy.toml",
-      "sha1": "cb03f01175edfe697746769d79e0349627f410d7",
-      "size": 1004,
+      "sha1": "7ab3a82a071fb0423957fcf183a521bb343915c4",
+      "size": 969,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_summon_decoy.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_summon_steed.toml",
-      "sha1": "5f6b23d7c2bb7701f161a07795223c8f62796f65",
-      "size": 1008,
+      "sha1": "d3ad2b222e5c1553a989bc4c240520fab945683c",
+      "size": 973,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_summon_steed.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_summon_undead.toml",
-      "sha1": "08b92cd8fb4033ad64ab83d48e809d7f8e1e0354",
-      "size": 1004,
+      "sha1": "ea77ed7be038e25f58e305db2deb475d23befb12",
+      "size": 969,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_summon_undead.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_summon_vex.toml",
-      "sha1": "08b92cd8fb4033ad64ab83d48e809d7f8e1e0354",
-      "size": 1004,
+      "sha1": "ea77ed7be038e25f58e305db2deb475d23befb12",
+      "size": 969,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_summon_vex.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_summon_wolves.toml",
-      "sha1": "b2b81a800404d90dbdd239beb482af1742e141d6",
-      "size": 1004,
+      "sha1": "fc49443db7ad2dcaae5596b0b72e95d87a9dcb24",
+      "size": 969,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_summon_wolves.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_toss.toml",
-      "sha1": "2c9bee9c25dbc2788bfddb7da080b2385b006200",
-      "size": 841,
+      "sha1": "fb91a4255c83319a06bacda4d4c23be240824126",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_toss.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_touch.toml",
-      "sha1": "e7ae6b022fca63660c040072a4581822462bcbf0",
-      "size": 703,
+      "sha1": "f0cef17a34c04bb4427b1c2e2c07e4082ac17ca3",
+      "size": 679,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_touch.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_underfoot.toml",
-      "sha1": "223d7cd3e87118b5d42fc235a901e0a232b2a208",
-      "size": 704,
+      "sha1": "70d9e13bacfd78b2243206db7132a63c1ea890a5",
+      "size": 680,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_underfoot.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_wall.toml",
-      "sha1": "e17e88b8dd495a977c0c3ab6ee3b2f3c2a578672",
-      "size": 884,
+      "sha1": "65c9130af820efe04b9242b321255975e7c1dca0",
+      "size": 857,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_wall.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_wind_burst.toml",
-      "sha1": "f93f5577902b65d8767266637c5624d3345d0173",
-      "size": 1036,
+      "sha1": "6aba9c9c72703ad4f3b87c002eceba6827bc2232",
+      "size": 1002,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_wind_burst.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_wind_shear.toml",
-      "sha1": "24799aed04ce61ca6173b0b1086134dfd3c93828",
-      "size": 1105,
+      "sha1": "458adea515181fd2892fe5abd3f59d83f2a1cb55",
+      "size": 1068,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_wind_shear.toml"
     },
     {
       "path": "config/ars_nouveau/glyph_wither.toml",
-      "sha1": "7e75ef881b5e19591feff459061cbdb2863ec0e7",
-      "size": 1037,
+      "sha1": "095689258ad5dceb535ee0308d8a9e67fe0ad2cc",
+      "size": 1002,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/glyph_wither.toml"
     },
     {
       "path": "config/ars_nouveau/reset.toml",
-      "sha1": "60a8c636368843d82b31b7a54061afaf8c70ceb9",
-      "size": 839,
+      "sha1": "e9ea97916781ceb018e35ea5af508fbc77048eca",
+      "size": 812,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/reset.toml"
     },
     {
       "path": "config/ars_nouveau/rewind.toml",
-      "sha1": "61d67677da60a65919c51ea9a228746d166913b2",
-      "size": 1362,
+      "sha1": "ec11431a1c74e04054699354e0a1a7f95f6a0a2a",
+      "size": 1319,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/rewind.toml"
     },
     {
@@ -776,50 +776,50 @@
     },
     {
       "path": "config/ars_nouveau/wololo.toml",
-      "sha1": "65f7ce8435e2a789b8dde54109bac5e36b551cfd",
-      "size": 872,
+      "sha1": "248fda0e5ac3595847a5d9b258cb65a7cd96be9c",
+      "size": 845,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau/wololo.toml"
     },
     {
       "path": "config/ars_nouveau-client.toml",
-      "sha1": "809f857bc1cb60e5d82f6c5d7cbb20695ca0e234",
-      "size": 2697,
+      "sha1": "ce12916ebd62480ba97e055a6f602eecea881de6",
+      "size": 2629,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau-client.toml"
     },
     {
       "path": "config/ars_nouveau-common.toml",
-      "sha1": "63575688e1c5ac2af1c986a2089b9659e5509409",
-      "size": 2910,
+      "sha1": "c9a016abd1e87859b4413ff34a50655d557abe08",
+      "size": 2813,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau-common.toml"
     },
     {
       "path": "config/ars_nouveau-server.toml",
-      "sha1": "c993cffe14c89dc306b1eac33696a536b27f5cf5",
-      "size": 1877,
+      "sha1": "f5ce7c137875700c8b56445e860abb40eb4fe9ac",
+      "size": 1803,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau-server.toml"
     },
     {
       "path": "config/ars_nouveau-startup.toml",
-      "sha1": "594e8fb927125ea087aa9c986c507e07399d5ca3",
-      "size": 256,
+      "sha1": "1d7211dca6dd335cdf426ea3650a95d6ba663034",
+      "size": 248,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ars_nouveau-startup.toml"
     },
     {
       "path": "config/artifacts/client.toml",
-      "sha1": "18fb471a162ef3e46fb1b77536cb685a0095a862",
-      "size": 1022,
+      "sha1": "1e3c8aca16be4dc90ca8d6a9c9e5dd83920e933e",
+      "size": 998,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/artifacts/client.toml"
     },
     {
       "path": "config/artifacts/general.toml",
-      "sha1": "4bc41887501bf15deec55e25f98dd82183a20709",
-      "size": 2326,
+      "sha1": "b7e76c54e3ea9a9d504185e1f1951affb2159acf",
+      "size": 2268,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/artifacts/general.toml"
     },
     {
       "path": "config/artifacts/items.toml",
-      "sha1": "a992b208dec934f06e6d6c30dbfed8253bb9fce4",
-      "size": 20333,
+      "sha1": "12bfd4745bc090acbf70debd9070e3b8e798e954",
+      "size": 19781,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/artifacts/items.toml"
     },
     {
@@ -830,14 +830,14 @@
     },
     {
       "path": "config/asynclogger.toml",
-      "sha1": "d48418a4a07721c0b44b39548a1f05e4a2ee1d8f",
-      "size": 2464,
+      "sha1": "3b20df1f1a45a050bb0e1418ac1fe364a6b7cc12",
+      "size": 2423,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/asynclogger.toml"
     },
     {
       "path": "config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "8d921dac117547638ba0b2b7df8189fb62fdd144",
-      "size": 2141,
+      "sha1": "c79ce26eb7105b169b16cf70d7f4e8de29442d29",
+      "size": 2119,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/asyncparticles/asyncparticles-mixin.properties"
     },
     {
@@ -2276,8 +2276,8 @@
     },
     {
       "path": "config/betteradvancements-client.toml",
-      "sha1": "f3f092a0b21260802d10cc6abd83e2a6d33573c3",
-      "size": 939,
+      "sha1": "df9d7fc02b3a3edd48a83e1fdecce7e7f3f58d3f",
+      "size": 915,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/betteradvancements-client.toml"
     },
     {
@@ -2306,14 +2306,14 @@
     },
     {
       "path": "config/betterendisland-neoforge-1_21.toml",
-      "sha1": "79be491edca159ceadf0b0cfbe904a10533e2dea",
-      "size": 943,
+      "sha1": "c1bad3b6be78c46e937cac995708ebad3c4487b4",
+      "size": 924,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/betterendisland-neoforge-1_21.toml"
     },
     {
       "path": "config/betterfpsdist.json",
-      "sha1": "b40c2729b9d113706dbd33cc1c847e94734e7d68",
-      "size": 680,
+      "sha1": "bb3a7262b14da5c1e8071d3b6a6df650fddf6193",
+      "size": 662,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/betterfpsdist.json"
     },
     {
@@ -2324,56 +2324,56 @@
     },
     {
       "path": "config/better_looting.toml",
-      "sha1": "04d53150e13750c6f0b8127ed01d570264f5c49f",
-      "size": 3622,
+      "sha1": "05f0f77445c638ffc7f8d00ef31038e2a491d5af",
+      "size": 3530,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/better_looting.toml"
     },
     {
       "path": "config/better_starting_armors.toml",
-      "sha1": "691a97dad0798074570e6f2a73bd2d0915940bf4",
-      "size": 335,
+      "sha1": "7a7e0003a3b14fdb2a93b0aaae8bc2080d271623",
+      "size": 328,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/better_starting_armors.toml"
     },
     {
       "path": "config/blockbox-common.toml",
-      "sha1": "477ad5cd3df2d8ab215ced999e674e7bf083c9df",
-      "size": 151,
+      "sha1": "13520c7af86fed9bcc4efc184e46f54001879e98",
+      "size": 149,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/blockbox-common.toml"
     },
     {
       "path": "config/block_factorys_bosses-client.toml",
-      "sha1": "41dc0f08855db8dc72e4b353b712331767f3f194",
-      "size": 2637,
+      "sha1": "03d67e95b0fcacf464be90862b158a75e89036e0",
+      "size": 2595,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/block_factorys_bosses-client.toml"
     },
     {
       "path": "config/block_factorys_bosses-server.toml",
-      "sha1": "60b9f5670d368c84914c1bf152b0c1becdcfcf0c",
-      "size": 843,
+      "sha1": "f8ca546a79970590e8cea7a1b7430c20d890b25f",
+      "size": 814,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/block_factorys_bosses-server.toml"
     },
     {
       "path": "config/blueprint-client.toml",
-      "sha1": "35a77a86bf0f985346e0b950047c03d1fbc8573c",
-      "size": 1035,
+      "sha1": "2bab8e61f7c200f2177cee32758a8a877b023ce6",
+      "size": 1010,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/blueprint-client.toml"
     },
     {
       "path": "config/blueprint-common.toml",
-      "sha1": "6d459bb8363766cb774dadd4062057123b56b04e",
-      "size": 523,
+      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87",
+      "size": 516,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/blueprint-common.toml"
     },
     {
       "path": "config/bosses_rise_config.client.toml",
-      "sha1": "f8bb240140a952032fb1151b4d045138f58cc5f8",
-      "size": 2509,
+      "sha1": "4b29915b5b95a9ea79d57b270e08ebe646e2729c",
+      "size": 2469,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/bosses_rise_config.client.toml"
     },
     {
       "path": "config/bosses_rise_config.toml",
-      "sha1": "e70e6533984737d339ba7ead0a35137bb8d0d082",
-      "size": 768,
+      "sha1": "4347911cc12675889213967d7806ef3460aa32a4",
+      "size": 742,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/bosses_rise_config.toml"
     },
     {
@@ -4628,20 +4628,20 @@
     },
     {
       "path": "config/boundless-common-1.toml.bak",
-      "sha1": "84aff7095fad4a2c8cd7f5910bb7f31e9a7e9385",
-      "size": 1603,
+      "sha1": "9eadd187197bbe7c85380121755f48fbc61c811c",
+      "size": 1563,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/boundless-common-1.toml.bak"
     },
     {
       "path": "config/boundless-common-2.toml.bak",
-      "sha1": "6063af282b38e37177ed90d49321fa7f18a1299c",
-      "size": 1535,
+      "sha1": "939a1505351881ced647f98bd799186169237a58",
+      "size": 1497,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/boundless-common-2.toml.bak"
     },
     {
       "path": "config/boundless-common.toml",
-      "sha1": "f64864312600d24670839e6032b4dcafb315938d",
-      "size": 2884,
+      "sha1": "c2e8efa3b44eb204b6fa32bc74a818ddabf9a414",
+      "size": 2816,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/boundless-common.toml"
     },
     {
@@ -4658,86 +4658,86 @@
     },
     {
       "path": "config/buffmobs.toml",
-      "sha1": "eda1bc44581132f705f40b5764f67018750a9e81",
-      "size": 15173,
+      "sha1": "66b848a980197a560c4e7e4420b3d25861993f3e",
+      "size": 14608,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/buffmobs.toml"
     },
     {
       "path": "config/c2me.toml",
-      "sha1": "15240288cb2ff9302134f43ec82d24a5083f8f41",
-      "size": 9633,
+      "sha1": "2537433ec6157eba89b715f15563751bd25628d1",
+      "size": 9423,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/c2me.toml"
     },
     {
       "path": "config/carryon-client.toml",
-      "sha1": "1fd6cec44704488ae7d2ab31425b6eb88ef3ce9c",
-      "size": 588,
+      "sha1": "ff6614d0d7c644a2024814ac63538e5bb3a307a0",
+      "size": 582,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/carryon-client.toml"
     },
     {
       "path": "config/carryon-common.toml",
-      "sha1": "f13ee696f128d74f1c82d90d8987ff8ef9389b70",
-      "size": 9110,
+      "sha1": "bc462a6da6c1e993d3497a688173e0a999126011",
+      "size": 9021,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/carryon-common.toml"
     },
     {
       "path": "config/cataclysm-client-1.toml.bak",
-      "sha1": "8e561fe4808fc5b428a05abc06f58b10eea636a5",
-      "size": 477,
+      "sha1": "6df0891fe040f5e49dce60bf55432a9ebbcee472",
+      "size": 460,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/cataclysm-client-1.toml.bak"
     },
     {
       "path": "config/cataclysm-client.toml",
-      "sha1": "31bb7d3e8acf3c15c5aef997d006c56e2b83c4f3",
-      "size": 539,
+      "sha1": "7e27eaa48377b7296bc24e40ac351231aaf67baa",
+      "size": 520,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/cataclysm-client.toml"
     },
     {
       "path": "config/cataclysm-common.toml",
-      "sha1": "b0dc6b40a859434df049bbfe9ff5138da4a49483",
-      "size": 30664,
+      "sha1": "4b403b3067e657b8a6aed195a19c6d009a6aebbb",
+      "size": 29413,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/cataclysm-common.toml"
     },
     {
       "path": "config/caverns_and_chasms-client.toml",
-      "sha1": "e5a8836dc9dd8273bd47f1db8035906eff9f8ada",
-      "size": 891,
+      "sha1": "1357215eb8ece9137da20ed2bb446d765b374f0c",
+      "size": 866,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/caverns_and_chasms-client.toml"
     },
     {
       "path": "config/caverns_and_chasms-common.toml",
-      "sha1": "236c499ceaa73ad73ff8a2067e813e6dbf917a61",
-      "size": 2497,
+      "sha1": "5dba21a74b0414f92fa624d6e6d53e41fc252d95",
+      "size": 2419,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/caverns_and_chasms-common.toml"
     },
     {
       "path": "config/chalk-client-1.toml.bak",
-      "sha1": "45f18a61327dc3570ed96ba493d147bce087182a",
-      "size": 774,
+      "sha1": "2a361a15bb6c4179c35edddc5bbdd68ae2a6c0e7",
+      "size": 743,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/chalk-client-1.toml.bak"
     },
     {
       "path": "config/chalk-client.toml",
-      "sha1": "b23a1a8977bb710f79cb9fadaa04b78bd5182f47",
-      "size": 415,
+      "sha1": "8547461e487192555f04f2f25c1c4fc41bd6b8b4",
+      "size": 408,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/chalk-client.toml"
     },
     {
       "path": "config/chalk-common-1.toml.bak",
-      "sha1": "5d19e25472c6e429e088930c09a90c9f8b65bbf0",
-      "size": 1313,
+      "sha1": "31295b15baaac0428e32ea92c0e2ecb58f820a7b",
+      "size": 1278,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/chalk-common-1.toml.bak"
     },
     {
       "path": "config/chalk-common.toml",
-      "sha1": "3a7d0a91af03763a608f8531b047dc930c5bda6d",
-      "size": 201,
+      "sha1": "164e26d71a2f6b96a73fe7805015a5f19097e72d",
+      "size": 198,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/chalk-common.toml"
     },
     {
       "path": "config/chalk-server.toml",
-      "sha1": "93bda7a2ff364717794834f2ab75316604a96ee9",
-      "size": 1589,
+      "sha1": "f52daece20b422837d9b803fa05e82136977e513",
+      "size": 1553,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/chalk-server.toml"
     },
     {
@@ -4766,8 +4766,8 @@
     },
     {
       "path": "config/chunksending.json",
-      "sha1": "f820994aca39e6317422a333d0b682757b7e45f6",
-      "size": 2580,
+      "sha1": "185cc5198d33d595c3d1c4f8cb2ad31cdc00f4d0",
+      "size": 2548,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/chunksending.json"
     },
     {
@@ -4784,8 +4784,8 @@
     },
     {
       "path": "config/cinematiczoom-client.toml",
-      "sha1": "155a5f47caffda6be1bcfe1cf9871d2b30cc3b34",
-      "size": 918,
+      "sha1": "9d41c1f8731d35a65d0d1123551473db87e68fac",
+      "size": 890,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/cinematiczoom-client.toml"
     },
     {
@@ -4802,14 +4802,14 @@
     },
     {
       "path": "config/clutternomore/client.toml",
-      "sha1": "96d9d95a2f495f59da6acf1f02ade3b1d16b6e7a",
-      "size": 792,
+      "sha1": "61dd32da86634df8a268edd495065f0f546af8a7",
+      "size": 770,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/clutternomore/client.toml"
     },
     {
       "path": "config/clutternomore/startup.toml",
-      "sha1": "37163b3d351931cc33e6996e7bc242e1befe6fc3",
-      "size": 687,
+      "sha1": "5cd6bfe36040e8b98ba28c4a193f5ab97d346787",
+      "size": 666,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/clutternomore/startup.toml"
     },
     {
@@ -4820,14 +4820,14 @@
     },
     {
       "path": "config/colorwheel-client.toml",
-      "sha1": "c631b4cfd3102d57369ab677c37e3477d6e7444c",
-      "size": 274,
+      "sha1": "ff6df107a94cee6d865fabcfc2c471abf6f39589",
+      "size": 268,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/colorwheel-client.toml"
     },
     {
       "path": "config/companions.toml",
-      "sha1": "5cc91f35a5d856464b8deb51842d2695cf0cf89e",
-      "size": 27981,
+      "sha1": "27a52c7b339082941445c3f1c05d962bd2fde854",
+      "size": 27172,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/companions.toml"
     },
     {
@@ -4838,26 +4838,26 @@
     },
     {
       "path": "config/confluence-client.toml",
-      "sha1": "561bf74cb8e5741acc667d5d32320540832b264f",
-      "size": 1317,
+      "sha1": "333045d2b6b886d631730a24dc5fe404532409e0",
+      "size": 1256,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/confluence-client.toml"
     },
     {
       "path": "config/confluence-common.toml",
-      "sha1": "ce3a5450317907943a7502e99bf442e3c7777733",
-      "size": 4048,
+      "sha1": "338c3d98049822b8edfb8c39cb5c67fe90fead56",
+      "size": 3882,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/confluence-common.toml"
     },
     {
       "path": "config/confluence-startup.toml",
-      "sha1": "e4e19543ad5da711dac42b07f9eaeb29f428cdd4",
-      "size": 148,
+      "sha1": "9ff0a140ffffa96c6b00bd43f5aed192371ebe33",
+      "size": 142,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/confluence-startup.toml"
     },
     {
       "path": "config/confluence_magic_lib-startup.toml",
-      "sha1": "c9a11bd0bbd96ee048f9a3297b011d88c15d6f4d",
-      "size": 224,
+      "sha1": "571776f991019517c80600625564d2ae91d85e75",
+      "size": 216,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/confluence_magic_lib-startup.toml"
     },
     {
@@ -4874,20 +4874,20 @@
     },
     {
       "path": "config/corpse-server.toml",
-      "sha1": "741422c678902068793cb2a82f1a4e51943a5764",
-      "size": 1092,
+      "sha1": "a126740f724c04a86518e03c62c908568c9914e4",
+      "size": 1056,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/corpse-server.toml"
     },
     {
       "path": "config/corpsecurioscompat-common.toml",
-      "sha1": "a98f32148a46c41949215915a9bd844f936d4279",
-      "size": 288,
+      "sha1": "f3576811902e4d45d3182179072130ef414e0966",
+      "size": 282,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/corpsecurioscompat-common.toml"
     },
     {
       "path": "config/crash_assistant/config.toml",
-      "sha1": "c58bdce9328f0cfa5f8dd2ffdac6adb72c434feb",
-      "size": 24215,
+      "sha1": "6d0bd17f95b9481d178033747442ff95bd38ea7a",
+      "size": 23818,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/crash_assistant/config.toml"
     },
     {
@@ -4910,50 +4910,50 @@
     },
     {
       "path": "config/create-client-1.toml.bak",
-      "sha1": "9dec74b874e6080524024919eab3ea2b6cbae6fc",
-      "size": 4701,
+      "sha1": "b28ac43107f6dc6d665a7432ec54b47411041f0e",
+      "size": 4555,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-client-1.toml.bak"
     },
     {
       "path": "config/create-client.toml",
-      "sha1": "aa7673767d9d2a41b36c06e262df759d7aad65d5",
-      "size": 4795,
+      "sha1": "1ffd32ca24b7b8cbec4dfcbb6aad4b7c8d871e42",
+      "size": 4648,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-client.toml"
     },
     {
       "path": "config/create-common.toml",
-      "sha1": "eeb60a2bebe041d74118246f0353028f23c82242",
-      "size": 153,
+      "sha1": "62ed6cc65a2043b7ddc4cb4f7c4f1d42855293de",
+      "size": 146,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-common.toml"
     },
     {
       "path": "config/create-server-1.toml.bak",
-      "sha1": "51dc256b8bff3cd4e24946fd7721c1b44179a2ba",
-      "size": 16882,
+      "sha1": "5c7c7ae107be9f0d46138a99e3142af89314b56f",
+      "size": 16278,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-server-1.toml.bak"
     },
     {
       "path": "config/create-server.toml",
-      "sha1": "7e9b96b35e2f62ca7d25b583ad16f1ec9f037b36",
-      "size": 16890,
+      "sha1": "440fd52a3691a245ffef990c365b926e60cb89f8",
+      "size": 16286,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-server.toml"
     },
     {
       "path": "config/create-stuff-additions-1.toml.bak",
-      "sha1": "334fbc321355f49abffe5fba08a3d86421361497",
-      "size": 837,
+      "sha1": "3d880b256ed102070911cb8b550699d1be357b54",
+      "size": 805,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-stuff-additions-1.toml.bak"
     },
     {
       "path": "config/create-stuff-additions.toml",
-      "sha1": "356fc05898e019ec605c1c799ddbae5bcb4d9fc8",
-      "size": 870,
+      "sha1": "1b2c68f72955724f8377cb35c148a617b95eb851",
+      "size": 837,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/create-stuff-additions.toml"
     },
     {
       "path": "config/createadvancedoptimization-server.toml",
-      "sha1": "f66d1f2d216b71d7842d0adcd22aacebfe2c6ee0",
-      "size": 2086,
+      "sha1": "974dbc80ccf1321076076bd4eb2518d67b3b343d",
+      "size": 2033,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/createadvancedoptimization-server.toml"
     },
     {
@@ -4964,8 +4964,8 @@
     },
     {
       "path": "config/ctm.toml",
-      "sha1": "133fb0ee46f2697532cdcc4a477b688f67980057",
-      "size": 178,
+      "sha1": "61b621f2c8c99bcc3d43fe73a4d05828217e31a9",
+      "size": 174,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ctm.toml"
     },
     {
@@ -4976,20 +4976,20 @@
     },
     {
       "path": "config/curios-client.toml",
-      "sha1": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6",
-      "size": 766,
+      "sha1": "369717e89c75b58c3064fc0d1a408c60e9f17070",
+      "size": 741,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/curios-client.toml"
     },
     {
       "path": "config/curios-common.toml",
-      "sha1": "2805359d4ad1ce08ef52cc73f84a96dafdc41024",
-      "size": 159,
+      "sha1": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7",
+      "size": 155,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/curios-common.toml"
     },
     {
       "path": "config/curios-server.toml",
-      "sha1": "8ccde45d5edd3767324231935fe07ac2318a0eb5",
-      "size": 483,
+      "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d",
+      "size": 467,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/curios-server.toml"
     },
     {
@@ -5000,50 +5000,50 @@
     },
     {
       "path": "config/darkerdepths-common.toml",
-      "sha1": "0e0e978390bd4bda8fa050470a0975d36abb9a2a",
-      "size": 5911,
+      "sha1": "f2f7800074de6fe86df1274d4ed7de8512847736",
+      "size": 5693,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/darkerdepths-common.toml"
     },
     {
       "path": "config/databank-client.toml",
-      "sha1": "7733b84a6667d776a0062814013c3ce784f9333c",
-      "size": 720,
+      "sha1": "9c0c0e76b1fd94be6816186afb9406907a6ac71a",
+      "size": 705,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/databank-client.toml"
     },
     {
       "path": "config/deeperdarker-common.toml",
-      "sha1": "24341283bedcbfda0a3c079cf23044d0b2db9c71",
-      "size": 854,
+      "sha1": "bcf11ff228a422d19fb2a006738b3393e1290b53",
+      "size": 821,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/deeperdarker-common.toml"
     },
     {
       "path": "config/defaultoptions/keybindings.txt",
-      "sha1": "4e2e387cae9a8c1b886922a64eb208b251286367",
-      "size": 12818,
+      "sha1": "08a220774948b7d46ca73aee587bd9a8f99e2cb1",
+      "size": 12585,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/defaultoptions/keybindings.txt"
     },
     {
       "path": "config/defaultoptions/options.txt",
-      "sha1": "3f65be85ae1ee89f3e61ef72295ec5891d06e593",
-      "size": 3038,
+      "sha1": "851cc2c96476669c579b0f9822cd9464db4080bb",
+      "size": 2932,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/defaultoptions/options.txt"
     },
     {
       "path": "config/defaultoptions-common-1.toml.bak",
-      "sha1": "40542f574cd1478baaa78036cbaf8b385cf11e8f",
-      "size": 379,
+      "sha1": "9b1d3649e7188a623d0214bb8212df5d279ae2c7",
+      "size": 374,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/defaultoptions-common-1.toml.bak"
     },
     {
       "path": "config/defaultoptions-common.toml",
-      "sha1": "94af7f4a2ede9a6130a40b29417acf777aceecbe",
-      "size": 471,
+      "sha1": "ad8cd289dde23bd4f05be6b64277ca290ad70fa2",
+      "size": 464,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/defaultoptions-common.toml"
     },
     {
       "path": "config/despawntweaker-server.toml",
-      "sha1": "7d1cc8be53c1275e52b3d3e9a9268ac8069a7e8e",
-      "size": 783,
+      "sha1": "4c67c2e5fe27797b62fbf2c23acbc0da123ef763",
+      "size": 768,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/despawntweaker-server.toml"
     },
     {
@@ -5180,44 +5180,44 @@
     },
     {
       "path": "config/easy_mob_spawn_control-client.toml",
-      "sha1": "e6ee256e16427c2b061a31ef2e175bc104455bec",
-      "size": 155,
+      "sha1": "c2a721996e20779ca4dda0d75d9426d94ddeeaf6",
+      "size": 147,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/easy_mob_spawn_control-client.toml"
     },
     {
       "path": "config/easy_mob_spawn_control-common-1.toml.bak",
-      "sha1": "c21d36724df11e717b5a2c9f87ac30f0b055d923",
-      "size": 597,
+      "sha1": "e3c6136830f5bd80c411e2fe0b93691dfad50300",
+      "size": 588,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/easy_mob_spawn_control-common-1.toml.bak"
     },
     {
       "path": "config/easy_mob_spawn_control-common.toml",
-      "sha1": "8eac866eff95f1db8a58c08805ce159a4e05edb5",
-      "size": 863,
+      "sha1": "f7e488ef79cd1c3702f3858a959aafbec09d949d",
+      "size": 835,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/easy_mob_spawn_control-common.toml"
     },
     {
       "path": "config/elysium_api-common.toml",
-      "sha1": "57a90db2ba0b784e7a73d9a385c731fa394becb9",
-      "size": 100,
+      "sha1": "66e8c0c7a2226070fb7ae3a41266103d11915434",
+      "size": 96,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/elysium_api-common.toml"
     },
     {
       "path": "config/emberstextapi-client.toml",
-      "sha1": "3a1d3211f48eb247d7a412eea6adc7b8062a4c07",
-      "size": 1173,
+      "sha1": "f4b97dc1089a0a0f7eb8ba5af701c905105ef66b",
+      "size": 1138,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/emberstextapi-client.toml"
     },
     {
       "path": "config/emberstextapi-common.toml",
-      "sha1": "bd493b6887114899daefd62c0f5e42dc58b5648b",
-      "size": 1363,
+      "sha1": "0f1a334fe4c3911e996f6c8fed4090a04b6aa414",
+      "size": 1325,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/emberstextapi-common.toml"
     },
     {
       "path": "config/emeraldpouch-client.toml",
-      "sha1": "fa5af1c3799471bfc32d3d767a727abbc6df945b",
-      "size": 1250,
+      "sha1": "fa09367b0cf8fda2c56977011e0a3e785ab9b5c5",
+      "size": 1228,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/emeraldpouch-client.toml"
     },
     {
@@ -5228,8 +5228,8 @@
     },
     {
       "path": "config/emixx/emixx-client.toml",
-      "sha1": "587f37d96688653ea9926bc6d56156f34069fbc2",
-      "size": 1177,
+      "sha1": "c414e00bdeac75f1685c5a097ca3636456594b19",
+      "size": 1170,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/emixx/emixx-client.toml"
     },
     {
@@ -5246,8 +5246,8 @@
     },
     {
       "path": "config/ender_trigon_unofficial-common.toml",
-      "sha1": "a93886c3d6e309776b87089e91655758fb3d1000",
-      "size": 784,
+      "sha1": "1ec2ec43c8a58f207db1996ab484e55c7574b230",
+      "size": 763,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ender_trigon_unofficial-common.toml"
     },
     {
@@ -5372,8 +5372,8 @@
     },
     {
       "path": "config/equipmentcompare.toml",
-      "sha1": "6936ac4ce517156e6c788265d1b0b02be9a08ebb",
-      "size": 1583,
+      "sha1": "ed5ecc8368b1ee46ff79435386c38161a373ea3f",
+      "size": 1545,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/equipmentcompare.toml"
     },
     {
@@ -5612,20 +5612,20 @@
     },
     {
       "path": "config/explorerscompass-client.toml",
-      "sha1": "b2ccdb787003f339e668f98bca79e88dc41ee290",
-      "size": 515,
+      "sha1": "2be0451eeee1d802742387c2990394b2aed3db45",
+      "size": 503,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/explorerscompass-client.toml"
     },
     {
       "path": "config/explorerscompass-common.toml",
-      "sha1": "326a57e5e3b496298d4d080b699e012c2ea506a6",
-      "size": 2138,
+      "sha1": "a22f0e4cfd58c55b4a7126820254be586a624cb5",
+      "size": 2109,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/explorerscompass-common.toml"
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "sha1": "d4815d2fc0800b9ad8e60045a7d0d521d44a9b87",
-      "size": 290,
+      "sha1": "0f1fb6d81a8043506e8f73b13dab2fd28554b64d",
+      "size": 281,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/fabric/indigo-renderer.properties"
     },
     {
@@ -5768,32 +5768,32 @@
     },
     {
       "path": "config/fangs_n_claws-common.toml",
-      "sha1": "5c2a8c62ea2f89afeb12e6b81671e00a0b5fbccf",
-      "size": 3629,
+      "sha1": "a35452e5db1e297712f85318aaf8cd5f5dc348be",
+      "size": 3550,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/fangs_n_claws-common.toml"
     },
     {
       "path": "config/fangs_n_claws-server.toml",
-      "sha1": "e9e62486d8755bae88eff66188b5303fb85d4ecc",
-      "size": 2752,
+      "sha1": "326428560a28720599440e5d0f5d933e17bc205a",
+      "size": 2645,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/fangs_n_claws-server.toml"
     },
     {
       "path": "config/farsight.json",
-      "sha1": "fd408c1d96b6a6f97ff45f66b8ded4eedd75cf8a",
-      "size": 916,
+      "sha1": "66d95a695c9afc7e41e315f5ef1bec6573fd5580",
+      "size": 896,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/farsight.json"
     },
     {
       "path": "config/fastpaintings-common.toml",
-      "sha1": "648548c614ca73f4e61e70f9a2f84186f368c5c8",
-      "size": 129,
+      "sha1": "d44ad2ff67af8d288edec8d99acb0045a518e088",
+      "size": 125,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/fastpaintings-common.toml"
     },
     {
       "path": "config/ferritecore-mixin.toml",
-      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
-      "size": 1603,
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc",
+      "size": 1579,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ferritecore-mixin.toml"
     },
     {
@@ -5810,14 +5810,14 @@
     },
     {
       "path": "config/find_me-common.toml",
-      "sha1": "24bb94d12afd694248d46d0c1dd79de045f432ed",
-      "size": 16851,
+      "sha1": "c66571ac9ddccc59c117e62c81c2d4a70bd6fb81",
+      "size": 16684,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/find_me-common.toml"
     },
     {
       "path": "config/fixmyspawnr-server.toml",
-      "sha1": "2c89e5c91118ff3bf16ca9f4dad4924b24853e90",
-      "size": 186,
+      "sha1": "9d34cd8ad671aaa7bd03a7702bf42204f1947d25",
+      "size": 181,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/fixmyspawnr-server.toml"
     },
     {
@@ -5828,44 +5828,44 @@
     },
     {
       "path": "config/flywheel-client-1.toml.bak",
-      "sha1": "5628d4f772aebed32322ac12b9b654c5d3289b6b",
-      "size": 637,
+      "sha1": "7f5b0523e9a90418cdda73ba1da0804cfa0b8d73",
+      "size": 623,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/flywheel-client-1.toml.bak"
     },
     {
       "path": "config/flywheel-client-2.toml.bak",
-      "sha1": "16e17067e3426d88c81a69d39e7afa6a0bed9c48",
-      "size": 637,
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc",
+      "size": 623,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/flywheel-client-2.toml.bak"
     },
     {
       "path": "config/flywheel-client-3.toml.bak",
-      "sha1": "5628d4f772aebed32322ac12b9b654c5d3289b6b",
-      "size": 637,
+      "sha1": "7f5b0523e9a90418cdda73ba1da0804cfa0b8d73",
+      "size": 623,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/flywheel-client-3.toml.bak"
     },
     {
       "path": "config/flywheel-client-4.toml.bak",
-      "sha1": "16e17067e3426d88c81a69d39e7afa6a0bed9c48",
-      "size": 637,
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc",
+      "size": 623,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/flywheel-client-4.toml.bak"
     },
     {
       "path": "config/flywheel-client-5.toml.bak",
-      "sha1": "5628d4f772aebed32322ac12b9b654c5d3289b6b",
-      "size": 637,
+      "sha1": "7f5b0523e9a90418cdda73ba1da0804cfa0b8d73",
+      "size": 623,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/flywheel-client-5.toml.bak"
     },
     {
       "path": "config/flywheel-client.toml",
-      "sha1": "dd39870cdb4ca33168860af5f83f5366c0402d19",
-      "size": 637,
+      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788",
+      "size": 623,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/flywheel-client.toml"
     },
     {
       "path": "config/fml.toml",
-      "sha1": "8172b80069c15d439d38bc532ff55e0120110e3d",
-      "size": 1551,
+      "sha1": "9586009cda7cd3429d173ad0272d737754f13a40",
+      "size": 1519,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/fml.toml"
     },
     {
@@ -5912,14 +5912,14 @@
     },
     {
       "path": "config/galosphere-common-1.toml.bak",
-      "sha1": "001a6cdf9a13d8b9d0c9643842ae4a656fdd2111",
-      "size": 351,
+      "sha1": "ea0074ce44894468c3b40829da120657630290fe",
+      "size": 343,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/galosphere-common-1.toml.bak"
     },
     {
       "path": "config/galosphere-common.toml",
-      "sha1": "c62daba2672edb3fff8d40a278a4192d0db367ae",
-      "size": 254,
+      "sha1": "4ac8e45f2191cee4c93230bafd0fe19b69e6f3ee",
+      "size": 248,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/galosphere-common.toml"
     },
     {
@@ -5930,8 +5930,8 @@
     },
     {
       "path": "config/getittogetherdrops-server.toml",
-      "sha1": "9ab2dfb5069d111b7af8d067d22814dfed2cbf58",
-      "size": 332,
+      "sha1": "b85abab139eda3b8afc42094768daa1be3889751",
+      "size": 326,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/getittogetherdrops-server.toml"
     },
     {
@@ -5948,56 +5948,56 @@
     },
     {
       "path": "config/guardvillagers-client.toml",
-      "sha1": "a74efdc8645fd589da6fe1b28ba94e4fad43da0a",
-      "size": 340,
+      "sha1": "f179019b37e99fe35f830c19467dacc7644315f2",
+      "size": 335,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/guardvillagers-client.toml"
     },
     {
       "path": "config/guardvillagers-common-1.toml.bak",
-      "sha1": "9d585df3ca5e02e9418c81670a6f3c587eed1b39",
-      "size": 6113,
+      "sha1": "ffa08941f521ee11531d9e7c5e75890439f6ee72",
+      "size": 6011,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/guardvillagers-common-1.toml.bak"
     },
     {
       "path": "config/guardvillagers-common.toml",
-      "sha1": "179a57dc70770f742cecba95e1705557dc80cd86",
-      "size": 6189,
+      "sha1": "163ec11571f72001fea9c2c1272ff94328373d51",
+      "size": 6086,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/guardvillagers-common.toml"
     },
     {
       "path": "config/guardvillagers-startup.toml",
-      "sha1": "5d2a583ff1d647c6eb1dbcb1586c7e3ad5ecdfb6",
-      "size": 195,
+      "sha1": "54ba1ce8c9531cd455bbc14f313e273e7923d514",
+      "size": 186,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/guardvillagers-startup.toml"
     },
     {
       "path": "config/hominid-common.toml",
-      "sha1": "554cdc93f5732893379f14780ae6fdefd5f27f5a",
-      "size": 330,
+      "sha1": "17e890fc88d69a0572342bb9d13292f24e2629ce",
+      "size": 320,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/hominid-common.toml"
     },
     {
       "path": "config/horseman-client.toml",
-      "sha1": "37c3db6a0669e3d609572d5f9e655a6552ca87d1",
-      "size": 2455,
+      "sha1": "cf5eb8615dc05a67454fe6decaa3260311657d78",
+      "size": 2395,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/horseman-client.toml"
     },
     {
       "path": "config/horseman-common.toml",
-      "sha1": "30f9c935a70a6506a9e2bb7d3ca9a7de733f909d",
-      "size": 137,
+      "sha1": "89d802d88826d9fbc408296027a993329a03f02f",
+      "size": 135,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/horseman-common.toml"
     },
     {
       "path": "config/horseman-server-1.toml.bak",
-      "sha1": "bdfab1b66665e7d37995f1f0d09efe2b7f1e9a08",
-      "size": 6137,
+      "sha1": "0be4639fb284ef8a1852d0846e9f70a3dc012da7",
+      "size": 6018,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/horseman-server-1.toml.bak"
     },
     {
       "path": "config/horseman-server.toml",
-      "sha1": "905978f00ae4c4e83f2e80486a035b364c95ae57",
-      "size": 6271,
+      "sha1": "ae54814e0c98275584b05b5b45251ed94e610b2d",
+      "size": 6149,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/horseman-server.toml"
     },
     {
@@ -6014,8 +6014,8 @@
     },
     {
       "path": "config/immersivelanterns-client.toml",
-      "sha1": "76d3ca3b9260bdb18432f818ec59d39718ffb833",
-      "size": 501,
+      "sha1": "83013ac7bd98519e9a3c0abb895cf335697d7aac",
+      "size": 484,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/immersivelanterns-client.toml"
     },
     {
@@ -6038,32 +6038,32 @@
     },
     {
       "path": "config/iris.properties",
-      "sha1": "514e2aac4539b6d4178f578868661b0fcf467761",
-      "size": 300,
+      "sha1": "11930a556e41a772ac83f92a974fdaffdc5af47a",
+      "size": 291,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/iris.properties"
     },
     {
       "path": "config/irons_spellbooks-client-1.toml.bak",
-      "sha1": "ce548661a958eaec60facba79984881c1fe3a902",
-      "size": 3443,
+      "sha1": "5fe924760477bc48cc17128e67a8552cac30e335",
+      "size": 3368,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/irons_spellbooks-client-1.toml.bak"
     },
     {
       "path": "config/irons_spellbooks-client.toml",
-      "sha1": "2c4f69fd310f6dc5b635637729d5e5b2c1304085",
-      "size": 3571,
+      "sha1": "2090451cef99b7cd1a1f9dc9a6810fce19bf2308",
+      "size": 3494,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/irons_spellbooks-client.toml"
     },
     {
       "path": "config/irons_spellbooks-server-1.toml.bak",
-      "sha1": "e6febc7ea85ae1a959ea3d715e1a3250b4ad33ef",
-      "size": 5216,
+      "sha1": "d1eb31057acc931adf2244c9fd4baf8d5a56782d",
+      "size": 5120,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/irons_spellbooks-server-1.toml.bak"
     },
     {
       "path": "config/irons_spellbooks-server.toml",
-      "sha1": "cd2ef1556b033d39ea10f40f629bc5f181bbc821",
-      "size": 5334,
+      "sha1": "0707f76f165c159a4140d3352fc9c90e279daebb",
+      "size": 5236,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/irons_spellbooks-server.toml"
     },
     {
@@ -6080,38 +6080,38 @@
     },
     {
       "path": "config/iteminteractions-client.toml",
-      "sha1": "7db80eae2de47970b9686c1bae813361a20b528f",
-      "size": 2234,
+      "sha1": "f0a38cbcde79371d68f971aaf61e8deeb62671ad",
+      "size": 2198,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/iteminteractions-client.toml"
     },
     {
       "path": "config/iteminteractions-server.toml",
-      "sha1": "bf3be8c6ce037e81aed87907a0515c51a2c04846",
-      "size": 739,
+      "sha1": "8fba87a1b9c4529f3a38a7b2efea01358bd57cae",
+      "size": 729,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/iteminteractions-server.toml"
     },
     {
       "path": "config/item_descriptions.toml",
-      "sha1": "14d0143e64f5a414f7514b3d6e269a0d22c5d3b6",
-      "size": 5465,
+      "sha1": "e2c47d3564ed0b1a6ee338f0cf1cbfa7dd9ada31",
+      "size": 5315,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/item_descriptions.toml"
     },
     {
       "path": "config/ixeris.toml",
-      "sha1": "27862af9ea2e7e3e07f249cce2d58993a7a21693",
-      "size": 2143,
+      "sha1": "77d524303d6f62fd9089aa34e4eaef15558cbe14",
+      "size": 2104,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ixeris.toml"
     },
     {
       "path": "config/jaams/weaponry/jaams_weaponry_client.toml",
-      "sha1": "16b01d4ec7ac65ff2e3e8c25d479426b4fcad432",
-      "size": 22385,
+      "sha1": "24ea5e5bf542903a20bf003cb2772246ea89b439",
+      "size": 21835,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jaams/weaponry/jaams_weaponry_client.toml"
     },
     {
       "path": "config/jaams/weaponry/jaams_weaponry_common.toml",
-      "sha1": "fb78ab50c57e7d9332ed8e214343ddc0762234c6",
-      "size": 181229,
+      "sha1": "fa3fcdfaee9b8aadcd0d98cfd2ba3f5bfc8c47dd",
+      "size": 176480,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jaams/weaponry/jaams_weaponry_common.toml"
     },
     {
@@ -6146,8 +6146,8 @@
     },
     {
       "path": "config/jasione.toml",
-      "sha1": "f0c5d12e287f771139445aeddba94c544cc53202",
-      "size": 550,
+      "sha1": "3f5e1d58736e689806eb67138ae643d4869fbadb",
+      "size": 539,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jasione.toml"
     },
     {
@@ -6158,50 +6158,50 @@
     },
     {
       "path": "config/jei/client/default/jei-client.ini",
-      "sha1": "cece18304f6efa6f71b1ae6fb8707c76d2ed1414",
-      "size": 15176,
+      "sha1": "c173470ed1d41eafcd9a16c523ad8d2f03e13850",
+      "size": 14780,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jei/client/default/jei-client.ini"
     },
     {
       "path": "config/jei/client/default/jei-colors.ini",
-      "sha1": "1044f6310eb4e62253c9d9e1ba3a9313599b310e",
-      "size": 1655,
+      "sha1": "a0b5388f559355560719adc93408da864a72d3e8",
+      "size": 1639,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jei/client/default/jei-colors.ini"
     },
     {
       "path": "config/jei/client/default/jei-debug.ini",
-      "sha1": "d02dc7d7cf1c8ced3ef1f9253a0bbadb6580d56d",
-      "size": 1174,
+      "sha1": "21114b8d222eb2a62d43404e1496664037119b8d",
+      "size": 1138,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jei/client/default/jei-debug.ini"
     },
     {
       "path": "config/jei/client/default/jei-mod-id-format.ini",
-      "sha1": "6106cc9c99906ea9da4854730887379ec1e8b256",
-      "size": 863,
+      "sha1": "a78ca513a5da04416aff948ed306253b15a2710a",
+      "size": 847,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jei/client/default/jei-mod-id-format.ini"
     },
     {
       "path": "config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "a0126ee791149fcb153d4dc1260a1cbc229b72b5",
-      "size": 1964,
+      "sha1": "ffbb86368b905c62d51ba01309d4203b3f2566b9",
+      "size": 1895,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jei/client/recipe-category-sort-order.ini"
     },
     {
       "path": "config/jei-server.toml",
-      "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8",
-      "size": 324,
+      "sha1": "07363b086ec2af8c224fbb4a762ad3c59633835c",
+      "size": 317,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jei-server.toml"
     },
     {
       "path": "config/jeioptimizer-client.toml",
-      "sha1": "d4f0ca230d231666553a12fb1d97b957c1185245",
-      "size": 2316,
+      "sha1": "a14f6ec5392ed72cffa33ffb560d19c2c872a438",
+      "size": 2269,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jeioptimizer-client.toml"
     },
     {
       "path": "config/jeremyseqsdamageindicators-client.toml",
-      "sha1": "fa4a4bb81dd33a8f3d3312d091e6877fc9b6d34b",
-      "size": 1274,
+      "sha1": "a8e907f58970264ad47940d0381e3f1d3e5737ca",
+      "size": 1237,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/jeremyseqsdamageindicators-client.toml"
     },
     {
@@ -6224,20 +6224,20 @@
     },
     {
       "path": "config/kaleidoscope_cookery-client.toml",
-      "sha1": "93c07f710bae581afa7120ef5125449ce1e64a09",
-      "size": 114,
+      "sha1": "eb11142f66b2e1c178a8867cc8aee6b1af331e95",
+      "size": 111,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/kaleidoscope_cookery-client.toml"
     },
     {
       "path": "config/kaleidoscope_cookery-common-1.toml.bak",
-      "sha1": "a9fb2ee6e47f2fb18d81c2c56fa7f39f57403195",
-      "size": 225,
+      "sha1": "89928b65b298e27d303da1507b7518ef9739646b",
+      "size": 220,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/kaleidoscope_cookery-common-1.toml.bak"
     },
     {
       "path": "config/kaleidoscope_cookery-common.toml",
-      "sha1": "aff458ee4b070ef240da13f8f90252e24b86b276",
-      "size": 1330,
+      "sha1": "8658ec4019d98049834be9146a138799da170255",
+      "size": 1299,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/kaleidoscope_cookery-common.toml"
     },
     {
@@ -6248,20 +6248,20 @@
     },
     {
       "path": "config/kingsandmonsters-client.toml",
-      "sha1": "10ec31b5303f5252ad7a6a012acf27a4263d3400",
-      "size": 171,
+      "sha1": "891618d56bd47c4a29e7a64755f00de8ba1dae77",
+      "size": 169,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/kingsandmonsters-client.toml"
     },
     {
       "path": "config/kingsandmonsters-server.toml",
-      "sha1": "909f271bbf60cd3e61775fd0a9297b8f338b8eb6",
-      "size": 8611,
+      "sha1": "4c7b4e93b8b9989f73663f127c326d2909553448",
+      "size": 8294,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/kingsandmonsters-server.toml"
     },
     {
       "path": "config/knightlib.toml",
-      "sha1": "a6d645765eddd40aa55e522b4600852be23166e7",
-      "size": 919,
+      "sha1": "403a50d2e3c41d1bec3fddce6c708d48e7ff393c",
+      "size": 892,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/knightlib.toml"
     },
     {
@@ -6296,44 +6296,44 @@
     },
     {
       "path": "config/labels-client.toml",
-      "sha1": "a92d9cb9e680ec80e01e600c28452d5415f3167f",
-      "size": 902,
+      "sha1": "1390c9053db71adf1691d25298fa82145396d485",
+      "size": 884,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/labels-client.toml"
     },
     {
       "path": "config/lambdynlights.toml",
-      "sha1": "1b5cf1c78d098f269f42acf275ab5d299bb62c04",
-      "size": 33271,
+      "sha1": "8e9f5a92b5e0b8c6ba1818be8fb953f838adbbb1",
+      "size": 31976,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/lambdynlights.toml"
     },
     {
       "path": "config/legendarytitles-client.toml",
-      "sha1": "a50ea9e782fad7ec3d85c59f1efc59773b754444",
-      "size": 247,
+      "sha1": "91fe1419af967b7727950b0fd7c6f2545687678c",
+      "size": 240,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/legendarytitles-client.toml"
     },
     {
       "path": "config/legendarytooltips.toml",
-      "sha1": "96bb103d4aa806cbc62218e577f7b2b4f20d0a8d",
-      "size": 9333,
+      "sha1": "498f211be6d074fe1141fe630276516c8515e5e9",
+      "size": 9195,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/legendarytooltips.toml"
     },
     {
       "path": "config/legendary_monsters-common.toml",
-      "sha1": "decbb2134f03aa716280beb2830a4d4714a6a131",
-      "size": 23983,
+      "sha1": "7f60b14a524ffb6a76fa846a25cc6c91b4b54744",
+      "size": 23254,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/legendary_monsters-common.toml"
     },
     {
       "path": "config/libtooltips-client-1.toml.bak",
-      "sha1": "7fca83cc3edfa970c98820222e01f1d93f9eedb7",
-      "size": 168,
+      "sha1": "1797f2295b56460c637ffde2de9e70c104ecffe5",
+      "size": 160,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/libtooltips-client-1.toml.bak"
     },
     {
       "path": "config/libtooltips-client.toml",
-      "sha1": "1f9d97fff04402223e83e10b08005f33c4108fa0",
-      "size": 192,
+      "sha1": "f617af6104b752221f2d7caf7e0bca4dd7aae12c",
+      "size": 183,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/libtooltips-client.toml"
     },
     {
@@ -6362,14 +6362,14 @@
     },
     {
       "path": "config/loaderoptimization-common.toml",
-      "sha1": "9b0fa4ab5bac40c686b2c2c4b8c6e813a05fa359",
-      "size": 1488,
+      "sha1": "a80894e462ef066877e9502679cc5e080b6c8b13",
+      "size": 1456,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/loaderoptimization-common.toml"
     },
     {
       "path": "config/lodestone-client.toml",
-      "sha1": "9ba4f131b02a7c4d3f8509c3a7701ffbfec9312f",
-      "size": 925,
+      "sha1": "db4dbb662f729686830fb0d461313184d1fc2f2f",
+      "size": 902,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/lodestone-client.toml"
     },
     {
@@ -6380,32 +6380,32 @@
     },
     {
       "path": "config/log_deduplicator.toml",
-      "sha1": "76f80ab3036045d206e89ef986e7dfbd45eb6c17",
-      "size": 1689,
+      "sha1": "2b0f90ea54290380266ed66ab3426ffa4f73cdbb",
+      "size": 1621,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/log_deduplicator.toml"
     },
     {
       "path": "config/lootr-client.toml",
-      "sha1": "32418b8a20482bbe8ae34fe31e479aa230caa3f4",
-      "size": 483,
+      "sha1": "e7e1054b487720bae0c68c9016ff2270b67a880f",
+      "size": 472,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/lootr-client.toml"
     },
     {
       "path": "config/lootr-common-1.toml.bak",
-      "sha1": "ce94774b91f9b469d769b989680e4a74c0d12347",
-      "size": 8199,
+      "sha1": "bfad2a47aeffff5df6a22c62d5f4cf5958f404f9",
+      "size": 8072,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/lootr-common-1.toml.bak"
     },
     {
       "path": "config/lootr-common.toml",
-      "sha1": "656b131eed0befd0bac6b89a4a5d4eacac194fc1",
-      "size": 8415,
+      "sha1": "9a6350cfe205a19213d1e1d9b71ad5c762694cdf",
+      "size": 8284,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/lootr-common.toml"
     },
     {
       "path": "config/luckysshowcase-common.toml",
-      "sha1": "9ffb0ce21a10408ef27327db89ca018df5958291",
-      "size": 135,
+      "sha1": "9439590d4611c6f00c450f4a971b12def920e4ff",
+      "size": 131,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/luckysshowcase-common.toml"
     },
     {
@@ -6470,14 +6470,14 @@
     },
     {
       "path": "config/metalbundles-server.toml",
-      "sha1": "088f08f326dc49b716016b0680e297d28d7b9fcb",
-      "size": 813,
+      "sha1": "f93f3495d8f1b84320fedae801a4ed0cf44f4efe",
+      "size": 783,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/metalbundles-server.toml"
     },
     {
       "path": "config/mezz_config/client/default/settings.ini",
-      "sha1": "37c6c10d605efbf78119e1fea0d6d0b06ba9ca77",
-      "size": 1452,
+      "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c",
+      "size": 1414,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/mezz_config/client/default/settings.ini"
     },
     {
@@ -6494,8 +6494,8 @@
     },
     {
       "path": "config/modernfix-common.toml",
-      "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e",
-      "size": 105,
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38",
+      "size": 103,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/modernfix-common.toml"
     },
     {
@@ -6506,38 +6506,38 @@
     },
     {
       "path": "config/modified-client.toml",
-      "sha1": "3cdabfb7762d4e85aacb1c33e3aadf41410fd204",
-      "size": 668,
+      "sha1": "22b1bbaa262cf3b8257c1b1dae103f0c217bbe0b",
+      "size": 648,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/modified-client.toml"
     },
     {
       "path": "config/modified-common.toml",
-      "sha1": "927c2ed51a085cf82f20fb9725a361ee3be969d9",
-      "size": 370,
+      "sha1": "9307b38c3cb3722a85557843786d465ee2b1fb6d",
+      "size": 360,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/modified-common.toml"
     },
     {
       "path": "config/modonomicon-client.toml",
-      "sha1": "b8cf01b532010ca7e6a16689e69d1fe5ec376915",
-      "size": 563,
+      "sha1": "7b3c6477a86c975e2af2c25c3cb13d63386d18cc",
+      "size": 555,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/modonomicon-client.toml"
     },
     {
       "path": "config/moonlight-client-1.toml.bak",
-      "sha1": "b526f2443c89773338e2b1076d7ebf6eaf0e810a",
-      "size": 1283,
+      "sha1": "2f6b7a2facbab0e4fcc75078011445fa220c393e",
+      "size": 1266,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/moonlight-client-1.toml.bak"
     },
     {
       "path": "config/moonlight-client.toml",
-      "sha1": "74af5357fd1834b5fc17291ab1834162342996e8",
-      "size": 2136,
+      "sha1": "7b8c615b82b9162fef6161f8951a046e1c2e14cd",
+      "size": 2108,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/moonlight-client.toml"
     },
     {
       "path": "config/moonlight-common.toml",
-      "sha1": "1f62002e06c865342690eea17511a19503da3d5d",
-      "size": 960,
+      "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2",
+      "size": 949,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/moonlight-common.toml"
     },
     {
@@ -6572,38 +6572,38 @@
     },
     {
       "path": "config/mowziesmobs-client.toml",
-      "sha1": "35672ec497330e7ef0143aa9ff5f0daccab3bd92",
-      "size": 980,
+      "sha1": "42fe9ec2d2e09b87566cf011e4b7867abfc0b101",
+      "size": 963,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/mowziesmobs-client.toml"
     },
     {
       "path": "config/mowziesmobs-common.toml",
-      "sha1": "deec1315d9c15484f26eeddfe25abe3594bcf79a",
-      "size": 37854,
+      "sha1": "15d909e8a8e8e58a76dc09e569c5aa3c3b3ab294",
+      "size": 36941,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/mowziesmobs-common.toml"
     },
     {
       "path": "config/music_disc_maker-client.toml",
-      "sha1": "e268515b89f08124a697a5b411e27556d1ad7f54",
-      "size": 1038,
+      "sha1": "91c54a58b2ab6480837a7966ee6e0cf410859b18",
+      "size": 1015,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/music_disc_maker-client.toml"
     },
     {
       "path": "config/mythsandlegends-common.toml",
-      "sha1": "130c62cef9207eed50be98d92034c16f1eb3887a",
-      "size": 6071,
+      "sha1": "b967c847b83c9e5b99bc1ef31b08d8bafab59019",
+      "size": 5822,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/mythsandlegends-common.toml"
     },
     {
       "path": "config/naturescompass-client.toml",
-      "sha1": "18a1ac2e9777023e5c050d94f15d9b173671b547",
-      "size": 444,
+      "sha1": "7866ee9ddbaeae44fd565c8af13f9a2f1b3e4efc",
+      "size": 432,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/naturescompass-client.toml"
     },
     {
       "path": "config/naturescompass-common.toml",
-      "sha1": "42db63bed3bbc7f493f04476516f3ff10df1acdb",
-      "size": 2227,
+      "sha1": "3c446dc5c7a12b850bf79273d10c7b3b12d40bc5",
+      "size": 2194,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/naturescompass-common.toml"
     },
     {
@@ -6614,74 +6614,74 @@
     },
     {
       "path": "config/neoforge-client.toml",
-      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
-      "size": 578,
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d",
+      "size": 570,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/neoforge-client.toml"
     },
     {
       "path": "config/neoforge-common.toml",
-      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
-      "size": 772,
+      "sha1": "2912b55694531e5ab90981a12f1844439d969e04",
+      "size": 764,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/neoforge-common.toml"
     },
     {
       "path": "config/neoforge-server.toml",
-      "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
-      "size": 1177,
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac",
+      "size": 1167,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/neoforge-server.toml"
     },
     {
       "path": "config/netherexp-common.toml",
-      "sha1": "e8a13b37916af793dd1055e7c863dbaab4d200ee",
-      "size": 30006,
+      "sha1": "5a5044186d74a91766157a475299325dcedbe163",
+      "size": 29295,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/netherexp-common.toml"
     },
     {
       "path": "config/netherexp-startup.toml",
-      "sha1": "68b048e77e71bbca46bec61e53ebdcc9058bb919",
-      "size": 854,
+      "sha1": "4e02f034e2d170ad75f452c4f1af4fcc31dece41",
+      "size": 836,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/netherexp-startup.toml"
     },
     {
       "path": "config/netherman-common.toml",
-      "sha1": "293ebc27007b3e60673ff664da8ad669dfbbe088",
-      "size": 7500,
+      "sha1": "4b7cab0bee32f3dd23eff396648662a8f0adf7fd",
+      "size": 7249,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/netherman-common.toml"
     },
     {
       "path": "config/nirvana-client.toml",
-      "sha1": "eecdb6a3367c754ca9546121349b9e55d6e7aadc",
-      "size": 108,
+      "sha1": "6e5b889530ffd4d2e2daf9de39d6db95a04c1bef",
+      "size": 105,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/nirvana-client.toml"
     },
     {
       "path": "config/nirvana-common.toml",
-      "sha1": "2b08633fe34507855fa6789b31a66f1a44271c40",
-      "size": 1840,
+      "sha1": "0520af200764459d880f670bb5c0a09a0dfaf017",
+      "size": 1784,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/nirvana-common.toml"
     },
     {
       "path": "config/numismaticoverhaul-client.toml",
-      "sha1": "3e45d4fb34a6aff184bbe246c9d5b7ea05228738",
-      "size": 361,
+      "sha1": "b1783ca7591bba524471a4c9b21027850dfa4d5d",
+      "size": 341,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/numismaticoverhaul-client.toml"
     },
     {
       "path": "config/numismaticoverhaul-startup.toml",
-      "sha1": "11e4613f43d90864fe6b9e075dc5489c00a5a0d0",
-      "size": 1352,
+      "sha1": "09c7852cfa8a0dafda45357ebb7c34ccfddee4ba",
+      "size": 1317,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/numismaticoverhaul-startup.toml"
     },
     {
       "path": "config/obscuria/aquamirae-client.toml",
-      "sha1": "70e475dc05b59590e303a94399d9ff88a3797bb7",
-      "size": 618,
+      "sha1": "300978dbae762422470e19a5de595e2a723a507a",
+      "size": 599,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/obscuria/aquamirae-client.toml"
     },
     {
       "path": "config/obscuria/aquamirae-common.toml",
-      "sha1": "38ca8d0a591c6e0a1c53b6e26148307d8dc5d091",
-      "size": 5852,
+      "sha1": "0ee1041337f2c4943b2bac460d3a0ed16a323b45",
+      "size": 5695,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/obscuria/aquamirae-common.toml"
     },
     {
@@ -6698,32 +6698,32 @@
     },
     {
       "path": "config/obscuria/loot_journal-client-1.toml.bak",
-      "sha1": "aa67e3245c6d21ac7fc0228327a9b1b958d5e29c",
-      "size": 832,
+      "sha1": "766f80de2ae476a2418edba2ebadec3c7e057c20",
+      "size": 796,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/obscuria/loot_journal-client-1.toml.bak"
     },
     {
       "path": "config/obscuria/loot_journal-client.toml",
-      "sha1": "60c2012d6ef92914c5a0b1c93ab8a86a5fbe2eb2",
-      "size": 5335,
+      "sha1": "1eff20a22a702875a0ecbf59bacc4575c26695fa",
+      "size": 5232,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/obscuria/loot_journal-client.toml"
     },
     {
       "path": "config/ohmenu-client.toml",
-      "sha1": "7a2580bfa77416ea35ab1a8034afb014e0856c5a",
-      "size": 208,
+      "sha1": "d28e0681d26f378dcd6071d4100e7b1cb32d1d15",
+      "size": 203,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ohmenu-client.toml"
     },
     {
       "path": "config/okhealthdamage-client.toml",
-      "sha1": "e7ec981468116aaa267c18e8257a57ef73a1395f",
-      "size": 11144,
+      "sha1": "2ffb88981f7b04497038c0cb48567c6cee378270",
+      "size": 10776,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/okhealthdamage-client.toml"
     },
     {
       "path": "config/olympus.toml",
-      "sha1": "5302d193f6f8169283e6143c620801e06958a267",
-      "size": 10130,
+      "sha1": "4cc4978c5f99a5e0eb96931de99a7f8f4aa830b3",
+      "size": 9792,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/olympus.toml"
     },
     {
@@ -6740,20 +6740,20 @@
     },
     {
       "path": "config/overflowingbars-client-1.toml.bak",
-      "sha1": "8077fcccf2199bc84d3a6b7c39679220ed4dc277",
-      "size": 3867,
+      "sha1": "7e35910ddad4b265e6356124d900b693ab46006d",
+      "size": 3777,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/overflowingbars-client-1.toml.bak"
     },
     {
       "path": "config/overflowingbars-client.toml",
-      "sha1": "eee0b542786a28e5d195cd90ff4a7ffa50f257ea",
-      "size": 3869,
+      "sha1": "d5482fa44a4b8c17f8e79174de364c45946a23b7",
+      "size": 3779,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/overflowingbars-client.toml"
     },
     {
       "path": "config/packetfixer.properties",
-      "sha1": "53b76bf8127b7b6c14ae2756dfbb29514ffa2655",
-      "size": 488,
+      "sha1": "b28e6976d6138636fdacb3a484e23b40bed037ed",
+      "size": 473,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/packetfixer.properties"
     },
     {
@@ -6794,26 +6794,26 @@
     },
     {
       "path": "config/paraglider-common.toml",
-      "sha1": "be3a7caa2b21156d8276a0178cfa227f7c89a8ba",
-      "size": 1508,
+      "sha1": "eb9aded8faf7fb486be4d6c4628a4498f2e11fd9",
+      "size": 1481,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/paraglider-common.toml"
     },
     {
       "path": "config/paraglider-player-states.toml",
-      "sha1": "4fc1daf3d2f54091a17c2d6379c1dbc692fa95cb",
-      "size": 2350,
+      "sha1": "db1dc1463b1a80962070eefedd1a2665d056f35f",
+      "size": 2240,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/paraglider-player-states.toml"
     },
     {
       "path": "config/paraglider-server.toml",
-      "sha1": "008e556fcd57c41c3ea24e8bb2ba797bf3205421",
-      "size": 4299,
+      "sha1": "94c6e14fd75ce3a78ce46cb8526b988c5186e392",
+      "size": 4218,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/paraglider-server.toml"
     },
     {
       "path": "config/particlestorm-common.toml",
-      "sha1": "96495a97ce77697696c435f727bd0c9a7517ddcc",
-      "size": 27,
+      "sha1": "1f03c9fdb8ad30a88067d784f29bd82f7323512a",
+      "size": 26,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/particlestorm-common.toml"
     },
     {
@@ -6836,8 +6836,8 @@
     },
     {
       "path": "config/patchouli-client.toml",
-      "sha1": "fca303723bcd692f1d64b76c7cf303afa46fc142",
-      "size": 1089,
+      "sha1": "51e0df3a58ba3cba0a5403de4a3c4f1b00859ec1",
+      "size": 1074,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/patchouli-client.toml"
     },
     {
@@ -6848,14 +6848,14 @@
     },
     {
       "path": "config/pickloot-client.toml",
-      "sha1": "1bfe687ec5971074f85a7cdeb95c38b31794aa30",
-      "size": 4195,
+      "sha1": "1f284bc41d45cc5cc79b38a1708591e891a6bfa3",
+      "size": 4088,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/pickloot-client.toml"
     },
     {
       "path": "config/pickloot-crops.json",
-      "sha1": "c5159edbbf909cf6837c57f5a1fba7da0b953e6b",
-      "size": 34,
+      "sha1": "51cb272aab7490703d708c51a8ad0337204b338b",
+      "size": 33,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/pickloot-crops.json"
     },
     {
@@ -6872,68 +6872,68 @@
     },
     {
       "path": "config/pickloot-state.properties",
-      "sha1": "2849ad220fbd3deca2bf903f663a675dfb47a17a",
-      "size": 167,
+      "sha1": "8ffa25e79a50bfb403011f96f7668c65fbb70e81",
+      "size": 163,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/pickloot-state.properties"
     },
     {
       "path": "config/ponder-client.toml",
-      "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8",
-      "size": 635,
+      "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e",
+      "size": 615,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/ponder-client.toml"
     },
     {
       "path": "config/powerscale-common.toml",
-      "sha1": "a8e5bfd604e3e5e736058d0505d3ab2fdb6b7f7f",
-      "size": 12530,
+      "sha1": "c3c261fa4baf9f7dcae01a3dc24beaa0832543b1",
+      "size": 12241,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-common.toml"
     },
     {
       "path": "config/powerscale-server-1.toml.bak",
-      "sha1": "d6f548e4d5c9f3edbfe5ba3f35d2f7538a6c9f23",
-      "size": 934,
+      "sha1": "e400e7cee50efe34e746066f6be573f2a7cfd179",
+      "size": 917,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-server-1.toml.bak"
     },
     {
       "path": "config/powerscale-server-2.toml.bak",
-      "sha1": "d6f548e4d5c9f3edbfe5ba3f35d2f7538a6c9f23",
-      "size": 934,
+      "sha1": "e400e7cee50efe34e746066f6be573f2a7cfd179",
+      "size": 917,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-server-2.toml.bak"
     },
     {
       "path": "config/powerscale-server-3.toml.bak",
-      "sha1": "d6f548e4d5c9f3edbfe5ba3f35d2f7538a6c9f23",
-      "size": 934,
+      "sha1": "e400e7cee50efe34e746066f6be573f2a7cfd179",
+      "size": 917,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-server-3.toml.bak"
     },
     {
       "path": "config/powerscale-server-4.toml.bak",
-      "sha1": "d6f548e4d5c9f3edbfe5ba3f35d2f7538a6c9f23",
-      "size": 934,
+      "sha1": "e400e7cee50efe34e746066f6be573f2a7cfd179",
+      "size": 917,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-server-4.toml.bak"
     },
     {
       "path": "config/powerscale-server-5.toml.bak",
-      "sha1": "d6f548e4d5c9f3edbfe5ba3f35d2f7538a6c9f23",
-      "size": 934,
+      "sha1": "e400e7cee50efe34e746066f6be573f2a7cfd179",
+      "size": 917,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-server-5.toml.bak"
     },
     {
       "path": "config/powerscale-server.toml",
-      "sha1": "d6f548e4d5c9f3edbfe5ba3f35d2f7538a6c9f23",
-      "size": 934,
+      "sha1": "e400e7cee50efe34e746066f6be573f2a7cfd179",
+      "size": 917,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/powerscale-server.toml"
     },
     {
       "path": "config/primal-common-1.toml.bak",
-      "sha1": "8311a65488adccc3e3aa21439eca9448c63cc5f9",
-      "size": 23545,
+      "sha1": "7114c164ffd9958f590105913513482e8ce38ce8",
+      "size": 22914,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/primal-common-1.toml.bak"
     },
     {
       "path": "config/primal-common.toml",
-      "sha1": "ab3bdf7b80856e6446899d73304f7e2a2e925285",
-      "size": 24228,
+      "sha1": "3224cddbd4c5f6aefdccfa62193686c92f41813f",
+      "size": 23590,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/primal-common.toml"
     },
     {
@@ -6974,8 +6974,8 @@
     },
     {
       "path": "config/refurbished_furniture.client.toml",
-      "sha1": "561e5d56e21f331ef339f50913f150eadac2c155",
-      "size": 1175,
+      "sha1": "b16c0c11b0ac4e6582c572178d4f673364a801e2",
+      "size": 1152,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/refurbished_furniture.client.toml"
     },
     {
@@ -7040,14 +7040,14 @@
     },
     {
       "path": "config/rpgtimeline-client.toml",
-      "sha1": "e40ffa13a4fecc085715b0fab00528eb152c548e",
-      "size": 549,
+      "sha1": "ad427e1786d5519560eed5b6b109b9b5aa8e850c",
+      "size": 533,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/rpgtimeline-client.toml"
     },
     {
       "path": "config/rpgtimeline-server.toml",
-      "sha1": "3bd297552abd39f078d66cc8ce81c04193a3c0e4",
-      "size": 7427,
+      "sha1": "0af7287db927e554125bf77ca142a10cd6629f5f",
+      "size": 7281,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/rpgtimeline-server.toml"
     },
     {
@@ -7076,20 +7076,20 @@
     },
     {
       "path": "config/saintsdragons-attributes.toml",
-      "sha1": "553d2c47de0c00543011cfc8a24b555c8f18abb2",
-      "size": 9887,
+      "sha1": "5026eadde1e4e03421940ec45661ea4ef2071e29",
+      "size": 9506,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/saintsdragons-attributes.toml"
     },
     {
       "path": "config/saintsdragonsspawning.toml",
-      "sha1": "181e07ec2088b3d9daf1b67cf9d9219b89c22d58",
-      "size": 3320,
+      "sha1": "83848c5508e605b15cc813900fee04b62127ef87",
+      "size": 3238,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/saintsdragonsspawning.toml"
     },
     {
       "path": "config/scalablelux.properties",
-      "sha1": "ab71427a142814ec0692141a3f2f1116561e7ee7",
-      "size": 84,
+      "sha1": "8b48240e60951cdcaffdf394c3ad146b113b679f",
+      "size": 81,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/scalablelux.properties"
     },
     {
@@ -7100,26 +7100,26 @@
     },
     {
       "path": "config/securitycraft-client.toml",
-      "sha1": "6f5010edfa41bfdf050109c877b29cc4b355ba33",
-      "size": 2020,
+      "sha1": "c606f30123c230a79b4bf3f7131d6a4ea5d0514c",
+      "size": 1994,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/securitycraft-client.toml"
     },
     {
       "path": "config/selling_bin-client.toml",
-      "sha1": "9f1df8b5a3e7ea73949833d201ca89954f3c63c1",
-      "size": 131,
+      "sha1": "d24aaeedd8075a518e894e3dfad22a42d83fdc1f",
+      "size": 129,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/selling_bin-client.toml"
     },
     {
       "path": "config/selling_bin-server.toml",
-      "sha1": "6f731c59433e0e17541840067727d30522e9c3fc",
-      "size": 118,
+      "sha1": "26e686cb218629240772af2ba27b4aa7ee3d9371",
+      "size": 114,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/selling_bin-server.toml"
     },
     {
       "path": "config/sharedadvancements-server.toml",
-      "sha1": "c0386724201bcaa4d5e977e031ed210ef05998d4",
-      "size": 169,
+      "sha1": "a50dae0375e7bc1b73c19e740fe67d76722a2a84",
+      "size": 165,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sharedadvancements-server.toml"
     },
     {
@@ -7130,14 +7130,14 @@
     },
     {
       "path": "config/shouldersurfing-client-1.toml.bak",
-      "sha1": "d62eec7c9e659b527d4acd66a77ad8ff21e5513d",
-      "size": 17988,
+      "sha1": "a82248b2beb3772b2f40aca229db09071f004ae3",
+      "size": 17589,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/shouldersurfing-client-1.toml.bak"
     },
     {
       "path": "config/shouldersurfing-client.toml",
-      "sha1": "0b879db99885ff0e0af8767c394d4286fce2c2ca",
-      "size": 17979,
+      "sha1": "9bf3080523323f90f84c8ea7564d57b3107ac3c7",
+      "size": 17574,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/shouldersurfing-client.toml"
     },
     {
@@ -7190,8 +7190,8 @@
     },
     {
       "path": "config/sizeable_foliage.properties",
-      "sha1": "9fb090c7044974114fe0d54be3e63acb66ff49e9",
-      "size": 86,
+      "sha1": "552ea22aae97399006059d4d29f8bd69620a592b",
+      "size": 83,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sizeable_foliage.properties"
     },
     {
@@ -7202,26 +7202,26 @@
     },
     {
       "path": "config/sleep_tight-client-1.toml.bak",
-      "sha1": "1376b2d4add926df0294678f0bac2cee3725501c",
-      "size": 1605,
+      "sha1": "5ac5ddcb17648dc69428a011d71e5db9582165f3",
+      "size": 1555,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sleep_tight-client-1.toml.bak"
     },
     {
       "path": "config/sleep_tight-client.toml",
-      "sha1": "d58de8dcff55ca65907147d3998e37e5391f9b33",
-      "size": 1712,
+      "sha1": "dde5d121a73c27e9f389f789cdd1faded87b9ca3",
+      "size": 1661,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sleep_tight-client.toml"
     },
     {
       "path": "config/sleep_tight-common-1.toml.bak",
-      "sha1": "727bd5b041a2743266f27213313ebb9db749527b",
-      "size": 7003,
+      "sha1": "e9d949b2f3297302a008d4b574775531cbb6a0b1",
+      "size": 6812,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sleep_tight-common-1.toml.bak"
     },
     {
       "path": "config/sleep_tight-common.toml",
-      "sha1": "ad7a7b29dd9e7201fb074da5be204f91bcd03903",
-      "size": 7871,
+      "sha1": "494baff9c15a69e370496c24698f92e1d11487c5",
+      "size": 7662,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sleep_tight-common.toml"
     },
     {
@@ -7238,8 +7238,8 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "sha1": "e92202fcb54a0df2d3b32455676b6df8292d8d8a",
-      "size": 2138,
+      "sha1": "12e9fdc49629fb22dee1a8e5311aee15fcb33e59",
+      "size": 2137,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sodium-extra-options.json"
     },
     {
@@ -7274,92 +7274,92 @@
     },
     {
       "path": "config/sodiumdynamiclights-client.toml",
-      "sha1": "debfc1b4b0dcdb15296533f7deb6801ed46ca739",
-      "size": 650,
+      "sha1": "c48c03da36f38a88f0ee3ce276f42f39e69bc686",
+      "size": 632,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sodiumdynamiclights-client.toml"
     },
     {
       "path": "config/sophisticatedbackpacks-common.toml",
-      "sha1": "faab0a1537b5377ed89cf1a2f6e660116a15891b",
-      "size": 118,
+      "sha1": "1b8594736f89ee42205972c77bf5ab5fc0682258",
+      "size": 114,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedbackpacks-common.toml"
     },
     {
       "path": "config/sophisticatedbackpacks-server-1.toml.bak",
-      "sha1": "8c684b18d6949aee40ecbc6a7b460d6b908a32cc",
-      "size": 21729,
+      "sha1": "87b73e4048847700eeac121b63a7a3ea3e5c6155",
+      "size": 21139,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedbackpacks-server-1.toml.bak"
     },
     {
       "path": "config/sophisticatedbackpacks-server-2.toml.bak",
-      "sha1": "df19f882e00b44792d6390bde0da6bde3cb360e3",
-      "size": 21725,
+      "sha1": "196e67e436c3e047d39339e8323963f4d8605aa4",
+      "size": 21135,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedbackpacks-server-2.toml.bak"
     },
     {
       "path": "config/sophisticatedbackpacks-server.toml",
-      "sha1": "2b9d638eb4ad13b99a47ea9a65b29d3e69967f8f",
-      "size": 24153,
+      "sha1": "87d7668067783775f2e4217a8142fb4d6d91e0c5",
+      "size": 23521,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedbackpacks-server.toml"
     },
     {
       "path": "config/sophisticatedcore-client-1.toml.bak",
-      "sha1": "08dbe082315554646cc1deeeb5dfef26b412236d",
-      "size": 474,
+      "sha1": "fce49bc4cdc9bd3479b5844ce1bb5c90c8d42f66",
+      "size": 465,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedcore-client-1.toml.bak"
     },
     {
       "path": "config/sophisticatedcore-client.toml",
-      "sha1": "27700782a7cd2e3f4a681fcee62fbe28057bca12",
-      "size": 478,
+      "sha1": "c8f544c7ab59384386ae7edb40b3840d90114e7d",
+      "size": 469,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedcore-client.toml"
     },
     {
       "path": "config/sophisticatedcore-common.toml",
-      "sha1": "51408e7c19f1b38b0d49120982b56366b8684a32",
-      "size": 11197,
+      "sha1": "2f379a5cb086cdc6933f23a324823302877715bb",
+      "size": 11193,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedcore-common.toml"
     },
     {
       "path": "config/sophisticateditemactions-client.toml",
-      "sha1": "6f5cb7ae75bcb3daa75105bbd0a4d7731b26bb1d",
-      "size": 1682,
+      "sha1": "2d1a8ad9baeb3cad5af7969cc6fcacb6743116e0",
+      "size": 1635,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticateditemactions-client.toml"
     },
     {
       "path": "config/sophisticateditemactions-server.toml",
-      "sha1": "5d701069945a1d897e57933b1e6667d1e6c9b09d",
-      "size": 152,
+      "sha1": "4bf2fe3064716833abccb89bee05e0ad94b31e53",
+      "size": 148,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticateditemactions-server.toml"
     },
     {
       "path": "config/sophisticatedstorage-client-1.toml.bak",
-      "sha1": "705b07f5bc4bc4358a47c4c59d49c844050ebd6f",
-      "size": 414,
+      "sha1": "41742f0a780170005993bf1c0e7c11e68abdcbb0",
+      "size": 408,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedstorage-client-1.toml.bak"
     },
     {
       "path": "config/sophisticatedstorage-client.toml",
-      "sha1": "69a37a8669fec525f67cfdd71b9dbd6f9f9c4b8e",
-      "size": 447,
+      "sha1": "89b1512ed55ba3ec5a5019ae288bd02b4a627545",
+      "size": 441,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedstorage-client.toml"
     },
     {
       "path": "config/sophisticatedstorage-common.toml",
-      "sha1": "d578e18d501ad877880d4e8505fdfde1dfb1367a",
-      "size": 186,
+      "sha1": "fcb62fb2d4bfeb7f66a883dcdfb5e8f066ccdbaa",
+      "size": 182,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedstorage-common.toml"
     },
     {
       "path": "config/sophisticatedstorage-server-1.toml.bak",
-      "sha1": "e86121a5164e066b5e1a14b36e8b46b21ef3c54a",
-      "size": 25271,
+      "sha1": "a8ef8307201a995000d2bf9157f64512ebd85402",
+      "size": 24414,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedstorage-server-1.toml.bak"
     },
     {
       "path": "config/sophisticatedstorage-server.toml",
-      "sha1": "b16ebd231e4206df293fd9e0db73967d4ab0f139",
-      "size": 25915,
+      "sha1": "88d1875745b0de834085d40b6004d11222ff2d0e",
+      "size": 25054,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sophisticatedstorage-server.toml"
     },
     {
@@ -7394,26 +7394,26 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
-      "size": 4831,
+      "sha1": "0c39bc1ec4b2ac839c49d38abbded87f25755eb8",
+      "size": 4612,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sound_physics_remastered/occlusion.properties"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
-      "size": 4713,
+      "sha1": "f535269c4173ed9c499611b9f595befc02d512cf",
+      "size": 4500,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sound_physics_remastered/reflectivity.properties"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
-      "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
-      "size": 5104,
+      "sha1": "f19e89b002596ede2b4b5a528ddb12180db6ac93",
+      "size": 5005,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sound_physics_remastered/soundphysics.properties"
     },
     {
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "22e0bb80aefdd710fb8292f2086b28eee8c985c9",
-      "size": 183238,
+      "sha1": "3dd4d07dab79d72eaf338e44db02e56275760b52",
+      "size": 178511,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sound_physics_remastered/sound_rates.properties"
     },
     {
@@ -7430,14 +7430,14 @@
     },
     {
       "path": "config/spark/tmp/about.txt",
-      "sha1": "a63da50166561c948dc39484f0d88990cdbe29a0",
-      "size": 585,
+      "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2",
+      "size": 575,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/spark/tmp/about.txt"
     },
     {
       "path": "config/spark/tmp-client/about.txt",
-      "sha1": "a63da50166561c948dc39484f0d88990cdbe29a0",
-      "size": 585,
+      "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2",
+      "size": 575,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/spark/tmp-client/about.txt"
     },
     {
@@ -7490,38 +7490,38 @@
     },
     {
       "path": "config/starcatcher-client-1.toml.bak",
-      "sha1": "47b2372fdef834b014a556481f3c133b0fbb8df0",
-      "size": 976,
+      "sha1": "fd46e4050fb914309d2120b989b67c0119465741",
+      "size": 950,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/starcatcher-client-1.toml.bak"
     },
     {
       "path": "config/starcatcher-client-2.toml.bak",
-      "sha1": "9a5c0e7566a6fb25682719c7515891164323cb3b",
-      "size": 809,
+      "sha1": "d71b5d17a078e799f24fbfc3be26e6621bbed1e1",
+      "size": 790,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/starcatcher-client-2.toml.bak"
     },
     {
       "path": "config/starcatcher-client.toml",
-      "sha1": "ef8f93878c38fb602298972a17f505d4035c2773",
-      "size": 1752,
+      "sha1": "a2082ae9c7e8ad01f85f3c88e17b0d52e008a322",
+      "size": 1694,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/starcatcher-client.toml"
     },
     {
       "path": "config/starcatcher-server-1.toml.bak",
-      "sha1": "ccf25ab74bf0b7c5cfba91b1d4368eeb5d068fa6",
-      "size": 2985,
+      "sha1": "6fd5c8430a52396a341e5f769b2bed7f6e453a26",
+      "size": 2914,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/starcatcher-server-1.toml.bak"
     },
     {
       "path": "config/starcatcher-server-2.toml.bak",
-      "sha1": "af57ebe0a9266772212e5dc7a2d613b776c287f8",
-      "size": 1518,
+      "sha1": "9090f319f2bb40f8f5ffa5d7287238d25e9e4354",
+      "size": 1484,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/starcatcher-server-2.toml.bak"
     },
     {
       "path": "config/starcatcher-server.toml",
-      "sha1": "9fabfd64c9d5ba4f28c777a085a51b9cfdf1768c",
-      "size": 2941,
+      "sha1": "4f6edf1ecd779f7549b98c934a064cea8e422be0",
+      "size": 2869,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/starcatcher-server.toml"
     },
     {
@@ -7580,32 +7580,32 @@
     },
     {
       "path": "config/sweety-archeo-config.toml",
-      "sha1": "5aa6e196adffe28d0cf6c1c9354e2aaafe1905d4",
-      "size": 1048,
+      "sha1": "fe2560b4d3be595f806a7786a4c852a372844cd8",
+      "size": 1029,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/sweety-archeo-config.toml"
     },
     {
       "path": "config/terrablender.toml",
-      "sha1": "194a663d21fe1df84f7230013c470329088fa710",
-      "size": 988,
+      "sha1": "784d8916886126533140aacc68efd71d01923cb1",
+      "size": 961,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/terrablender.toml"
     },
     {
       "path": "config/terra_curio-client.toml",
-      "sha1": "b572044e276bab82a9165f6fdfa74f11c6515f73",
-      "size": 339,
+      "sha1": "f04277fd442b670f36a2065c4cd24c337f37c528",
+      "size": 320,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/terra_curio-client.toml"
     },
     {
       "path": "config/terra_curio-common.toml",
-      "sha1": "8e5ae76523f69209aa84161440a5981b8154f988",
-      "size": 2826,
+      "sha1": "293320d2ee643410e5f11c374ad022b24665dd09",
+      "size": 2806,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/terra_curio-common.toml"
     },
     {
       "path": "config/terra_curio-startup.toml",
-      "sha1": "c95b429a8c489a8fe05bcc3e4ca3c2bea5c3a1f6",
-      "size": 320,
+      "sha1": "b0a07fb834c559a1cfbf5a32518ce2bb5f4f576e",
+      "size": 318,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/terra_curio-startup.toml"
     },
     {
@@ -7616,44 +7616,44 @@
     },
     {
       "path": "config/terra_entity-client.toml",
-      "sha1": "5eb51c93405ec391cef59134a7ae11ee6b9f28c8",
-      "size": 549,
+      "sha1": "d9274a74f8c49b641c7601c3481078fb196540ca",
+      "size": 528,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/terra_entity-client.toml"
     },
     {
       "path": "config/terra_entity-server.toml",
-      "sha1": "5e26a9239b64b66ab12f6e4347664593ee230c44",
-      "size": 1440,
+      "sha1": "5683e9caace208548caac7b5ffd37be5d87ebe79",
+      "size": 1397,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/terra_entity-server.toml"
     },
     {
       "path": "config/the_beyond-client.toml",
-      "sha1": "68e6409eb124dd5ccbbf01ee2f7f18f7819228e5",
-      "size": 224,
+      "sha1": "0f4d1bde75e2a6e8cf02c0e18363d8115f4bc1d6",
+      "size": 218,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/the_beyond-client.toml"
     },
     {
       "path": "config/the_beyond-common.toml",
-      "sha1": "fb38d732aeea63874ca096027ba4dbd915a40582",
-      "size": 791,
+      "sha1": "bb39b2d9229a7aa07ec353f8812ef4b1584e69bf",
+      "size": 775,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/the_beyond-common.toml"
     },
     {
       "path": "config/the_trackers-client.toml",
-      "sha1": "d32f18cb3bc82a9a28bbcb59f4ea9bdd8cf95719",
-      "size": 2585,
+      "sha1": "f73b44f5487289574d7218fc04c6df26f62415de",
+      "size": 2558,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/the_trackers-client.toml"
     },
     {
       "path": "config/thr_dim_particle-client.toml",
-      "sha1": "d2b48be9308c8023c2b69eb5d42abdfa1ede7a36",
-      "size": 497,
+      "sha1": "af1fc06d10637de4f575cc83a1250026fc245a4a",
+      "size": 477,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/thr_dim_particle-client.toml"
     },
     {
       "path": "config/tinymultiblocklib-client.toml",
-      "sha1": "36fddeb89b7706784de25c012a243e47afbb63c0",
-      "size": 99,
+      "sha1": "e1fc807bd74d7a64a69f630d3603c5a6a25cb4fc",
+      "size": 97,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/tinymultiblocklib-client.toml"
     },
     {
@@ -7664,8 +7664,8 @@
     },
     {
       "path": "config/tooltipoverhaul/tooltipoverhaul.toml",
-      "sha1": "5996f97854583942fa01b0d51a50b7be64d0f37a",
-      "size": 7335,
+      "sha1": "17e678d8d946d8828f739fb7e3e980a815810f25",
+      "size": 7140,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/tooltipoverhaul/tooltipoverhaul.toml"
     },
     {
@@ -7880,56 +7880,56 @@
     },
     {
       "path": "config/trashslot-common.toml",
-      "sha1": "a71bdf32c03fb750b4a5faa85047658e849b8d43",
-      "size": 752,
+      "sha1": "ce834785445b04489f5c2a2ed373059ab0df1ba1",
+      "size": 742,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/trashslot-common.toml"
     },
     {
       "path": "config/travelerscompass-common.toml",
-      "sha1": "ff985e46cf237e1d862ab1af7082714852395842",
-      "size": 4657,
+      "sha1": "8f37b44b6e37eb5e99c15e72bf5a57ea9da1dde3",
+      "size": 4530,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/travelerscompass-common.toml"
     },
     {
       "path": "config/travelerscompass-cost.toml",
-      "sha1": "88c5b92b106cd26316a954e37044ed85e0c6a6ed",
-      "size": 736,
+      "sha1": "80bf8379e87f341d35cf04f60ff4465bbc137686",
+      "size": 722,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/travelerscompass-cost.toml"
     },
     {
       "path": "config/travelerstitles-neoforge-1_21.toml",
-      "sha1": "9c289f8a399192e154af0af5b08fe53a35e78558",
-      "size": 10680,
+      "sha1": "6a5731c4738fac37fd7cf32790c5471131742403",
+      "size": 10468,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/travelerstitles-neoforge-1_21.toml"
     },
     {
       "path": "config/travelertoolbelt-client-1.toml.bak",
-      "sha1": "e43a61e2adf0b5365a47a5f8c870945c99102758",
-      "size": 624,
+      "sha1": "d9d26080d65464e910736702d6a9e7362ec50327",
+      "size": 606,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/travelertoolbelt-client-1.toml.bak"
     },
     {
       "path": "config/travelertoolbelt-client.toml",
-      "sha1": "a10c7d790b10ccce3c0b1cdc9452f6b61e32ec61",
-      "size": 771,
+      "sha1": "1091c3cc557f6a46ab934aec7376133c7a571a4f",
+      "size": 751,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/travelertoolbelt-client.toml"
     },
     {
       "path": "config/travelertoolbelt-server.toml",
-      "sha1": "5b023b67ff11cae40a6c4253d0596849d299ed76",
-      "size": 935,
+      "sha1": "61902896ccb8a6948a9a01579c7a4a3c77abc4d6",
+      "size": 905,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/travelertoolbelt-server.toml"
     },
     {
       "path": "config/treechop-client.toml",
-      "sha1": "9c6abaa9969599ef1890616cea0b43814872c15e",
-      "size": 1399,
+      "sha1": "450d8e85122a24e0e0b1d3276dbe64e18151a996",
+      "size": 1367,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/treechop-client.toml"
     },
     {
       "path": "config/treechop-common.toml",
-      "sha1": "f64167587c3e9a566a0369898adf446bd328240c",
-      "size": 9496,
+      "sha1": "33a9efa735cda8f4cdf965f1802da8de4848ca51",
+      "size": 9294,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/treechop-common.toml"
     },
     {
@@ -7940,32 +7940,32 @@
     },
     {
       "path": "config/undergarden-client.toml",
-      "sha1": "67483e930b37beba5b0d696e2b95e09d79ef22f0",
-      "size": 389,
+      "sha1": "c78fae58949da7fe037e6fcedd6ee8b789672e3f",
+      "size": 383,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/undergarden-client.toml"
     },
     {
       "path": "config/undergarden-common.toml",
-      "sha1": "bafd49558921e78825e400e7d1953c41d509251f",
-      "size": 343,
+      "sha1": "01a5948326994d5d4cbe4a4b973a7532899d075a",
+      "size": 339,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/undergarden-common.toml"
     },
     {
       "path": "config/unusualend-common-1.toml.bak",
-      "sha1": "924e914266eff71df8b4ebbcdcf603798ba10d5f",
-      "size": 3910,
+      "sha1": "4b4daa8225e14720ba6894411226abd25455475c",
+      "size": 3832,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/unusualend-common-1.toml.bak"
     },
     {
       "path": "config/unusualend-common.toml",
-      "sha1": "db777d55266fbdafd850aed694148751bb1bca7e",
-      "size": 4049,
+      "sha1": "1d31705a79a7f2bd490f24b2ec46c404804aa917",
+      "size": 3969,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/unusualend-common.toml"
     },
     {
       "path": "config/villagerretaliation-client.properties",
-      "sha1": "8bc2e0b900cc002b4545beeb6c2ffe46a773d2f6",
-      "size": 130,
+      "sha1": "3ba4c324acea7fde9a0b9ceffd079a3d610570c5",
+      "size": 126,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/villagerretaliation-client.properties"
     },
     {
@@ -7988,8 +7988,8 @@
     },
     {
       "path": "config/waterframes-client.toml",
-      "sha1": "75337c5fd1700f7d672cd38f75120016426d91d0",
-      "size": 1013,
+      "sha1": "52d9f8c4f3888cb6edb7fa3574fbfc4743fce976",
+      "size": 995,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/waterframes-client.toml"
     },
     {
@@ -8000,86 +8000,86 @@
     },
     {
       "path": "config/waystones-common-1.toml.bak",
-      "sha1": "7bf0c3e8c01db67d4d1da2d728894fb423a01a98",
-      "size": 6236,
+      "sha1": "5ce26c8a27f36bf32b50bc8e461d948e24af58c5",
+      "size": 6149,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/waystones-common-1.toml.bak"
     },
     {
       "path": "config/waystones-common.toml",
-      "sha1": "6ad388685036c085199abe148adbc6060bdf5568",
-      "size": 6604,
+      "sha1": "38a3c1801b547048dc9ca44e93083b64ff1d0d96",
+      "size": 6509,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/waystones-common.toml"
     },
     {
       "path": "config/weatherrefind-client.toml",
-      "sha1": "d066d3716e2d078c8cd0c64c92687fa31022ba9a",
-      "size": 3529,
+      "sha1": "ecdccca006e90c5fc5ccee6e3f8ffd7267387172",
+      "size": 3416,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/weatherrefind-client.toml"
     },
     {
       "path": "config/whaleborne-client.toml",
-      "sha1": "b18c79f75fccf011b5cdaba096c849a5ec3d56fb",
-      "size": 430,
+      "sha1": "6c12ab8c372c0a9d1d147ad7c919bb910eef67db",
+      "size": 422,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/whaleborne-client.toml"
     },
     {
       "path": "config/whaleborne-server.toml",
-      "sha1": "e390b82cd194a664e9414d7c63e041d39d92c462",
-      "size": 1870,
+      "sha1": "d93925d38229188a56dd3050fd91e5e1f2c95952",
+      "size": 1828,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/whaleborne-server.toml"
     },
     {
       "path": "config/wildernature-common.toml",
-      "sha1": "d5fe69d322b95803203af6d830a4666b97e02a3e",
-      "size": 3056,
+      "sha1": "a137b655f9f88a7fee76d824939392b22ec45639",
+      "size": 2896,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/wildernature-common.toml"
     },
     {
       "path": "config/witherreincarnated/client-1.toml.bak",
-      "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
-      "size": 918,
+      "sha1": "eebcf1b7c45aaf102447112dd0cd993cb911639b",
+      "size": 900,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/client-1.toml.bak"
     },
     {
       "path": "config/witherreincarnated/client-2.toml.bak",
-      "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
-      "size": 918,
+      "sha1": "eebcf1b7c45aaf102447112dd0cd993cb911639b",
+      "size": 900,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/client-2.toml.bak"
     },
     {
       "path": "config/witherreincarnated/client-3.toml.bak",
-      "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
-      "size": 918,
+      "sha1": "eebcf1b7c45aaf102447112dd0cd993cb911639b",
+      "size": 900,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/client-3.toml.bak"
     },
     {
       "path": "config/witherreincarnated/client-4.toml.bak",
-      "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
-      "size": 918,
+      "sha1": "eebcf1b7c45aaf102447112dd0cd993cb911639b",
+      "size": 900,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/client-4.toml.bak"
     },
     {
       "path": "config/witherreincarnated/client-5.toml.bak",
-      "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
-      "size": 918,
+      "sha1": "eebcf1b7c45aaf102447112dd0cd993cb911639b",
+      "size": 900,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/client-5.toml.bak"
     },
     {
       "path": "config/witherreincarnated/client.toml",
-      "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
-      "size": 918,
+      "sha1": "eebcf1b7c45aaf102447112dd0cd993cb911639b",
+      "size": 900,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/client.toml"
     },
     {
       "path": "config/witherreincarnated/common.toml",
-      "sha1": "fc1a907aa8c395aa207f798fc8c23bd711968e25",
-      "size": 1550,
+      "sha1": "b6acd314e440ff0ae4347b68bbe39943a793a15e",
+      "size": 1520,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/witherreincarnated/common.toml"
     },
     {
       "path": "config/wizardmobs-server.toml",
-      "sha1": "33fdf67175500e1b1c09780e710b7935091f59bf",
-      "size": 2797,
+      "sha1": "00bd8276b946fc34736293414074d8e2c4b34827",
+      "size": 2669,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/wizardmobs-server.toml"
     },
     {
@@ -8216,8 +8216,8 @@
     },
     {
       "path": "config/xaerohud.txt",
-      "sha1": "774e1656677a16db18af3f9e5a50cb3f1fcbdcb2",
-      "size": 122,
+      "sha1": "851b3edb42e7549864b1ccceb90fca5ea9a841d4",
+      "size": 121,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/config/xaerohud.txt"
     },
     {
@@ -10040,8 +10040,8 @@
     },
     {
       "path": "shaderpacks/Fantasy Shaders Reimagined v1.0.1.zip.txt",
-      "sha1": "fac544d619279f127a241047eaf500f62213b6bf",
-      "size": 212,
+      "sha1": "71c3c172111b13916a2166c7e23780a04cd76a8b",
+      "size": 202,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/shaderpacks/Fantasy%20Shaders%20Reimagined%20v1.0.1.zip.txt"
     },
     {
@@ -10070,8 +10070,8 @@
     },
     {
       "path": "shaderpacks/Shrimple_v0.12.zip.txt",
-      "sha1": "b0a2abb73d3e489717b7eae6d64b042900d59058",
-      "size": 82,
+      "sha1": "aaf79c7f5caa26ffd96ec5f6b614087aa756d140",
+      "size": 78,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/shaderpacks/Shrimple_v0.12.zip.txt"
     },
     {
@@ -57776,8 +57776,8 @@
     },
     {
       "path": "options.txt",
-      "sha1": "8bd2e20afd7b062dc55781ceb609de7cce98f6e0",
-      "size": 18408,
+      "sha1": "2c27ba16e19ac20182061a5d44854bc6b3d22e9f",
+      "size": 18017,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/options.txt"
     },
     {
