@@ -1,6 +1,6 @@
 {
   "name": "Mimic MC",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -12,13 +12,6 @@
   },
   "recommendedRam": 6144,
   "optionalMods": [
-    {
-      "id": "distant_horizons",
-      "name": "Distant Horizons",
-      "file": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-      "description": "Renderizado de mundos a larguísima distancia (LOD). Desactivado por defecto para maximizar FPS. Actívalo si tu PC lo soporta.",
-      "defaultEnabled": false
-    },
     {
       "id": "iris_shaders",
       "name": "Iris Shaders",
@@ -37,10 +30,10 @@
   "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/modpack.json",
   "forceUpdate": true,
   "changelog": [
-    "Actualización v1.0.3 (292 archivos)",
-    "➕ Agregado (1): DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+    "Actualización v1.0.4 (291 archivos)",
+    "➖ Eliminado: DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
   ],
-  "fileSizeMb": 991.9,
+  "fileSizeMb": 963.6,
   "files": [
     {
       "path": "mods/[1.21.1] SecurityCraft v1.10.2.1.jar",
@@ -509,12 +502,6 @@
       "sha1": "c0c5e59e1a6c35cb7c6cf330993077cb70591a2b",
       "size": 13724,
       "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/despawntweaker-1.21.1-NeoForge-1.0.0.jar"
-    },
-    {
-      "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-      "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
-      "size": 28289212,
-      "downloadUrl": "https://raw.githubusercontent.com/LuisEnriqueGM03/mimic-server/main/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
     },
     {
       "path": "mods/DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar",
