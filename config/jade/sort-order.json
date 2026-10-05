@@ -87,6 +87,9 @@
   "powerscale:mob": null,
   "securitycraft:block_info": null,
   "securitycraft:entity_info": null,
+  "toms_storage:inventory_config": null,
+  "toms_storage:inventory_connector": null,
+  "toms_storage:inventory_hopper": null,
   "treechop:plugin": null,
   "waystones:waystone": null
 }
