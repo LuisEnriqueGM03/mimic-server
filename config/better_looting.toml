@@ -89,4 +89,4 @@
 [State]
 	#状态持久化数据，请勿更改此处
 	lastFilterMode = "ALL"
-	lastAutoMode = false
+	lastAutoMode = true
